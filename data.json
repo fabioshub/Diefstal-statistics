@@ -1,0 +1,1002 @@
+[
+  {
+    "fiets": 11,
+    "val": 71,
+    "plek": "Starominskaya"
+  },
+  {
+    "fiets": 45,
+    "val": 71,
+    "plek": "Yunlong"
+  },
+  {
+    "fiets": 75,
+    "val": 16,
+    "plek": "Reriz"
+  },
+  {
+    "fiets": 4,
+    "val": 81,
+    "plek": "Chambly"
+  },
+  {
+    "fiets": 1,
+    "val": 24,
+    "plek": "Ancasti"
+  },
+  {
+    "fiets": 83,
+    "val": 65,
+    "plek": "Krasnodar"
+  },
+  {
+    "fiets": 12,
+    "val": 95,
+    "plek": "Anbyŏn-ŭp"
+  },
+  {
+    "fiets": 5,
+    "val": 18,
+    "plek": "Baing"
+  },
+  {
+    "fiets": 68,
+    "val": 65,
+    "plek": "Khe Tre"
+  },
+  {
+    "fiets": 62,
+    "val": 65,
+    "plek": "Tiberias"
+  },
+  {
+    "fiets": 48,
+    "val": 24,
+    "plek": "Dek’emhāre"
+  },
+  {
+    "fiets": 9,
+    "val": 30,
+    "plek": "Jinhe"
+  },
+  {
+    "fiets": 25,
+    "val": 91,
+    "plek": "Dahuangwei"
+  },
+  {
+    "fiets": 74,
+    "val": 88,
+    "plek": "Lixiqiao"
+  },
+  {
+    "fiets": 61,
+    "val": 84,
+    "plek": "Udomlya"
+  },
+  {
+    "fiets": 8,
+    "val": 70,
+    "plek": "Merefa"
+  },
+  {
+    "fiets": 23,
+    "val": 8,
+    "plek": "Saint-Quentin"
+  },
+  {
+    "fiets": 58,
+    "val": 4,
+    "plek": "Bhalwāl"
+  },
+  {
+    "fiets": 7,
+    "val": 73,
+    "plek": "Xiaosong"
+  },
+  {
+    "fiets": 95,
+    "val": 66,
+    "plek": "Rossosh’"
+  },
+  {
+    "fiets": 44,
+    "val": 67,
+    "plek": "Berbek"
+  },
+  {
+    "fiets": 64,
+    "val": 48,
+    "plek": "Qa‘ţabah"
+  },
+  {
+    "fiets": 85,
+    "val": 84,
+    "plek": "Tangdukou"
+  },
+  {
+    "fiets": 82,
+    "val": 24,
+    "plek": "Yonggu"
+  },
+  {
+    "fiets": 80,
+    "val": 73,
+    "plek": "Fornos"
+  },
+  {
+    "fiets": 96,
+    "val": 91,
+    "plek": "Aix-en-Provence"
+  },
+  {
+    "fiets": 50,
+    "val": 87,
+    "plek": "Bertoua"
+  },
+  {
+    "fiets": 73,
+    "val": 89,
+    "plek": "Vinica"
+  },
+  {
+    "fiets": 36,
+    "val": 96,
+    "plek": "San Bartolomé Milpas Altas"
+  },
+  {
+    "fiets": 83,
+    "val": 94,
+    "plek": "Sunfang"
+  },
+  {
+    "fiets": 29,
+    "val": 46,
+    "plek": "Jawhar"
+  },
+  {
+    "fiets": 21,
+    "val": 84,
+    "plek": "Santa Isabel"
+  },
+  {
+    "fiets": 60,
+    "val": 76,
+    "plek": "Predavac"
+  },
+  {
+    "fiets": 22,
+    "val": 31,
+    "plek": "Arroteia"
+  },
+  {
+    "fiets": 84,
+    "val": 60,
+    "plek": "Moutsamoudou"
+  },
+  {
+    "fiets": 21,
+    "val": 40,
+    "plek": "Liangcunchang"
+  },
+  {
+    "fiets": 29,
+    "val": 83,
+    "plek": "São Paulo de Olivença"
+  },
+  {
+    "fiets": 5,
+    "val": 97,
+    "plek": "Kariya"
+  },
+  {
+    "fiets": 62,
+    "val": 37,
+    "plek": "Parthenay"
+  },
+  {
+    "fiets": 5,
+    "val": 25,
+    "plek": "Jiḩānah"
+  },
+  {
+    "fiets": 33,
+    "val": 69,
+    "plek": "Watuagung"
+  },
+  {
+    "fiets": 91,
+    "val": 17,
+    "plek": "Mikhaylov"
+  },
+  {
+    "fiets": 63,
+    "val": 33,
+    "plek": "Mariquita"
+  },
+  {
+    "fiets": 64,
+    "val": 70,
+    "plek": "Chum Phae"
+  },
+  {
+    "fiets": 4,
+    "val": 37,
+    "plek": "Yunfeng"
+  },
+  {
+    "fiets": 52,
+    "val": 62,
+    "plek": "Staronizhestebliyevskaya"
+  },
+  {
+    "fiets": 67,
+    "val": 79,
+    "plek": "Patnongon"
+  },
+  {
+    "fiets": 87,
+    "val": 75,
+    "plek": "Stykkishólmur"
+  },
+  {
+    "fiets": 97,
+    "val": 73,
+    "plek": "Ji’an"
+  },
+  {
+    "fiets": 75,
+    "val": 54,
+    "plek": "Krajansumbermujur"
+  },
+  {
+    "fiets": 84,
+    "val": 95,
+    "plek": "Peruíbe"
+  },
+  {
+    "fiets": 20,
+    "val": 28,
+    "plek": "Ampelókipoi"
+  },
+  {
+    "fiets": 55,
+    "val": 1,
+    "plek": "Lajinha"
+  },
+  {
+    "fiets": 4,
+    "val": 100,
+    "plek": "Futian"
+  },
+  {
+    "fiets": 27,
+    "val": 32,
+    "plek": "Ketawang"
+  },
+  {
+    "fiets": 72,
+    "val": 69,
+    "plek": "Sotomayor"
+  },
+  {
+    "fiets": 98,
+    "val": 30,
+    "plek": "Aucallama"
+  },
+  {
+    "fiets": 100,
+    "val": 12,
+    "plek": "Baiquan"
+  },
+  {
+    "fiets": 63,
+    "val": 63,
+    "plek": "Victoria"
+  },
+  {
+    "fiets": 14,
+    "val": 8,
+    "plek": "Huicheng"
+  },
+  {
+    "fiets": 88,
+    "val": 73,
+    "plek": "Liaozhong"
+  },
+  {
+    "fiets": 83,
+    "val": 75,
+    "plek": "Bergen"
+  },
+  {
+    "fiets": 62,
+    "val": 72,
+    "plek": "Tarhuna"
+  },
+  {
+    "fiets": 17,
+    "val": 79,
+    "plek": "Rojas"
+  },
+  {
+    "fiets": 74,
+    "val": 85,
+    "plek": "Zhongdeng"
+  },
+  {
+    "fiets": 95,
+    "val": 37,
+    "plek": "Yunxi"
+  },
+  {
+    "fiets": 61,
+    "val": 82,
+    "plek": "Ximapo"
+  },
+  {
+    "fiets": 54,
+    "val": 95,
+    "plek": "Datong"
+  },
+  {
+    "fiets": 25,
+    "val": 78,
+    "plek": "Krajan Tanjungrejo"
+  },
+  {
+    "fiets": 68,
+    "val": 35,
+    "plek": "Zahedan"
+  },
+  {
+    "fiets": 51,
+    "val": 86,
+    "plek": "Conel"
+  },
+  {
+    "fiets": 99,
+    "val": 35,
+    "plek": "At Tibnī"
+  },
+  {
+    "fiets": 79,
+    "val": 90,
+    "plek": "Qiucun"
+  },
+  {
+    "fiets": 12,
+    "val": 24,
+    "plek": "Boissevain"
+  },
+  {
+    "fiets": 38,
+    "val": 1,
+    "plek": "Stěbořice"
+  },
+  {
+    "fiets": 93,
+    "val": 40,
+    "plek": "Ximafang"
+  },
+  {
+    "fiets": 73,
+    "val": 92,
+    "plek": "Hekou"
+  },
+  {
+    "fiets": 27,
+    "val": 70,
+    "plek": "Awgu"
+  },
+  {
+    "fiets": 27,
+    "val": 86,
+    "plek": "Pondokdalem"
+  },
+  {
+    "fiets": 88,
+    "val": 24,
+    "plek": "Meghrashen"
+  },
+  {
+    "fiets": 50,
+    "val": 41,
+    "plek": "San Carlos"
+  },
+  {
+    "fiets": 7,
+    "val": 77,
+    "plek": "Roa"
+  },
+  {
+    "fiets": 43,
+    "val": 79,
+    "plek": "Cagbang"
+  },
+  {
+    "fiets": 36,
+    "val": 38,
+    "plek": "Huitán"
+  },
+  {
+    "fiets": 61,
+    "val": 100,
+    "plek": "Duwayr Raslān"
+  },
+  {
+    "fiets": 7,
+    "val": 46,
+    "plek": "Ulyanovsk"
+  },
+  {
+    "fiets": 49,
+    "val": 21,
+    "plek": "Monroe"
+  },
+  {
+    "fiets": 73,
+    "val": 50,
+    "plek": "Koszyce Wielkie"
+  },
+  {
+    "fiets": 6,
+    "val": 36,
+    "plek": "Winnica"
+  },
+  {
+    "fiets": 11,
+    "val": 21,
+    "plek": "Kota Kinabalu"
+  },
+  {
+    "fiets": 91,
+    "val": 32,
+    "plek": "Wesoła"
+  },
+  {
+    "fiets": 1,
+    "val": 39,
+    "plek": "Santiago Puringla"
+  },
+  {
+    "fiets": 97,
+    "val": 45,
+    "plek": "Itaguaçu"
+  },
+  {
+    "fiets": 76,
+    "val": 18,
+    "plek": "Roriz"
+  },
+  {
+    "fiets": 65,
+    "val": 67,
+    "plek": "Novi Travnik"
+  },
+  {
+    "fiets": 63,
+    "val": 37,
+    "plek": "Jundian"
+  },
+  {
+    "fiets": 30,
+    "val": 88,
+    "plek": "Balugo"
+  },
+  {
+    "fiets": 55,
+    "val": 2,
+    "plek": "Choszczno"
+  },
+  {
+    "fiets": 34,
+    "val": 53,
+    "plek": "Nūr"
+  },
+  {
+    "fiets": 26,
+    "val": 11,
+    "plek": "Caen"
+  },
+  {
+    "fiets": 55,
+    "val": 32,
+    "plek": "Shali"
+  },
+  {
+    "fiets": 16,
+    "val": 88,
+    "plek": "Hila"
+  },
+  {
+    "fiets": 27,
+    "val": 41,
+    "plek": "Nepomuceno"
+  },
+  {
+    "fiets": 39,
+    "val": 86,
+    "plek": "Podbuzh"
+  },
+  {
+    "fiets": 3,
+    "val": 36,
+    "plek": "Ban Khok"
+  },
+  {
+    "fiets": 68,
+    "val": 40,
+    "plek": "Rönninge"
+  },
+  {
+    "fiets": 27,
+    "val": 71,
+    "plek": "Tekstil’shchiki"
+  },
+  {
+    "fiets": 47,
+    "val": 74,
+    "plek": "Chimen"
+  },
+  {
+    "fiets": 83,
+    "val": 75,
+    "plek": "Tulle"
+  },
+  {
+    "fiets": 17,
+    "val": 13,
+    "plek": "Dulce Nombre"
+  },
+  {
+    "fiets": 33,
+    "val": 23,
+    "plek": "Cochadas"
+  },
+  {
+    "fiets": 50,
+    "val": 28,
+    "plek": "Quebrada Larga"
+  },
+  {
+    "fiets": 2,
+    "val": 55,
+    "plek": "Cisompet"
+  },
+  {
+    "fiets": 3,
+    "val": 55,
+    "plek": "Macau"
+  },
+  {
+    "fiets": 38,
+    "val": 94,
+    "plek": "Beicheng"
+  },
+  {
+    "fiets": 50,
+    "val": 19,
+    "plek": "Frei"
+  },
+  {
+    "fiets": 91,
+    "val": 64,
+    "plek": "Karviná"
+  },
+  {
+    "fiets": 45,
+    "val": 59,
+    "plek": "Zhaitou"
+  },
+  {
+    "fiets": 54,
+    "val": 18,
+    "plek": "Áthyra"
+  },
+  {
+    "fiets": 23,
+    "val": 71,
+    "plek": "Artur Nogueira"
+  },
+  {
+    "fiets": 22,
+    "val": 70,
+    "plek": "Salavat"
+  },
+  {
+    "fiets": 21,
+    "val": 5,
+    "plek": "Dawang"
+  },
+  {
+    "fiets": 63,
+    "val": 40,
+    "plek": "Feodosiya"
+  },
+  {
+    "fiets": 12,
+    "val": 98,
+    "plek": "Konstantinovskoye"
+  },
+  {
+    "fiets": 42,
+    "val": 92,
+    "plek": "Moyo"
+  },
+  {
+    "fiets": 9,
+    "val": 41,
+    "plek": "Az Zarbah"
+  },
+  {
+    "fiets": 17,
+    "val": 52,
+    "plek": "Retiro"
+  },
+  {
+    "fiets": 57,
+    "val": 29,
+    "plek": "Pregrada"
+  },
+  {
+    "fiets": 10,
+    "val": 10,
+    "plek": "Gielniów"
+  },
+  {
+    "fiets": 64,
+    "val": 99,
+    "plek": "Randuboto"
+  },
+  {
+    "fiets": 24,
+    "val": 61,
+    "plek": "San Isidro"
+  },
+  {
+    "fiets": 26,
+    "val": 59,
+    "plek": "Bautista"
+  },
+  {
+    "fiets": 86,
+    "val": 12,
+    "plek": "Yangkou"
+  },
+  {
+    "fiets": 49,
+    "val": 100,
+    "plek": "Três de Maio"
+  },
+  {
+    "fiets": 55,
+    "val": 33,
+    "plek": "Port Erin"
+  },
+  {
+    "fiets": 63,
+    "val": 48,
+    "plek": "Paccha"
+  },
+  {
+    "fiets": 79,
+    "val": 4,
+    "plek": "Margarita"
+  },
+  {
+    "fiets": 25,
+    "val": 10,
+    "plek": "Hatava"
+  },
+  {
+    "fiets": 86,
+    "val": 86,
+    "plek": "Hebian"
+  },
+  {
+    "fiets": 52,
+    "val": 1,
+    "plek": "Domaniewice"
+  },
+  {
+    "fiets": 25,
+    "val": 59,
+    "plek": "Ebetsu"
+  },
+  {
+    "fiets": 19,
+    "val": 58,
+    "plek": "Chikwawa"
+  },
+  {
+    "fiets": 29,
+    "val": 47,
+    "plek": "Kabasalan"
+  },
+  {
+    "fiets": 61,
+    "val": 79,
+    "plek": "Gourma Rharous"
+  },
+  {
+    "fiets": 15,
+    "val": 7,
+    "plek": "Levandeira"
+  },
+  {
+    "fiets": 95,
+    "val": 39,
+    "plek": "Khrebtovaya"
+  },
+  {
+    "fiets": 7,
+    "val": 43,
+    "plek": "Piedade"
+  },
+  {
+    "fiets": 33,
+    "val": 72,
+    "plek": "Sumisip"
+  },
+  {
+    "fiets": 25,
+    "val": 58,
+    "plek": "Usogorsk"
+  },
+  {
+    "fiets": 47,
+    "val": 34,
+    "plek": "Stockholm"
+  },
+  {
+    "fiets": 40,
+    "val": 82,
+    "plek": "Meia Via"
+  },
+  {
+    "fiets": 53,
+    "val": 46,
+    "plek": "Rivera"
+  },
+  {
+    "fiets": 40,
+    "val": 27,
+    "plek": "Pasaco"
+  },
+  {
+    "fiets": 62,
+    "val": 73,
+    "plek": "Obršani"
+  },
+  {
+    "fiets": 92,
+    "val": 95,
+    "plek": "København"
+  },
+  {
+    "fiets": 2,
+    "val": 7,
+    "plek": "Patique"
+  },
+  {
+    "fiets": 53,
+    "val": 41,
+    "plek": "Tempurejo"
+  },
+  {
+    "fiets": 4,
+    "val": 69,
+    "plek": "Kamirenjaku"
+  },
+  {
+    "fiets": 98,
+    "val": 43,
+    "plek": "Antipolo"
+  },
+  {
+    "fiets": 87,
+    "val": 93,
+    "plek": "Huayuan"
+  },
+  {
+    "fiets": 99,
+    "val": 14,
+    "plek": "Tillabéri"
+  },
+  {
+    "fiets": 21,
+    "val": 6,
+    "plek": "Quilmaná"
+  },
+  {
+    "fiets": 23,
+    "val": 96,
+    "plek": "Odolanów"
+  },
+  {
+    "fiets": 71,
+    "val": 80,
+    "plek": "Daxin"
+  },
+  {
+    "fiets": 40,
+    "val": 98,
+    "plek": "Bayan Hot"
+  },
+  {
+    "fiets": 49,
+    "val": 65,
+    "plek": "Novallas"
+  },
+  {
+    "fiets": 78,
+    "val": 26,
+    "plek": "Zinder"
+  },
+  {
+    "fiets": 20,
+    "val": 47,
+    "plek": "Changning"
+  },
+  {
+    "fiets": 70,
+    "val": 74,
+    "plek": "Jiangcun"
+  },
+  {
+    "fiets": 15,
+    "val": 85,
+    "plek": "Songgui"
+  },
+  {
+    "fiets": 62,
+    "val": 6,
+    "plek": "Darungan"
+  },
+  {
+    "fiets": 76,
+    "val": 77,
+    "plek": "Balibagan Oeste"
+  },
+  {
+    "fiets": 91,
+    "val": 27,
+    "plek": "Jiazhi"
+  },
+  {
+    "fiets": 36,
+    "val": 60,
+    "plek": "Moba"
+  },
+  {
+    "fiets": 100,
+    "val": 44,
+    "plek": "Aix-en-Provence"
+  },
+  {
+    "fiets": 91,
+    "val": 72,
+    "plek": "Santa Bárbara de Padrões"
+  },
+  {
+    "fiets": 64,
+    "val": 48,
+    "plek": "Tabia"
+  },
+  {
+    "fiets": 13,
+    "val": 8,
+    "plek": "Bokaa"
+  },
+  {
+    "fiets": 7,
+    "val": 91,
+    "plek": "Nartkala"
+  },
+  {
+    "fiets": 85,
+    "val": 36,
+    "plek": "Uryupinsk"
+  },
+  {
+    "fiets": 37,
+    "val": 64,
+    "plek": "Kampungtengah"
+  },
+  {
+    "fiets": 43,
+    "val": 90,
+    "plek": "Pasirjengkol"
+  },
+  {
+    "fiets": 45,
+    "val": 30,
+    "plek": "Sidareja"
+  },
+  {
+    "fiets": 71,
+    "val": 51,
+    "plek": "Los Córdobas"
+  },
+  {
+    "fiets": 7,
+    "val": 36,
+    "plek": "Yushan"
+  },
+  {
+    "fiets": 9,
+    "val": 81,
+    "plek": "Al Mughayyir"
+  },
+  {
+    "fiets": 77,
+    "val": 79,
+    "plek": "Ovidiopol’"
+  },
+  {
+    "fiets": 84,
+    "val": 18,
+    "plek": "Huaguoshan"
+  },
+  {
+    "fiets": 48,
+    "val": 99,
+    "plek": "Krzeszów"
+  },
+  {
+    "fiets": 49,
+    "val": 36,
+    "plek": "Kopayhorod"
+  },
+  {
+    "fiets": 49,
+    "val": 7,
+    "plek": "Banyuresmi"
+  },
+  {
+    "fiets": 33,
+    "val": 70,
+    "plek": "Malawag"
+  },
+  {
+    "fiets": 76,
+    "val": 24,
+    "plek": "Tawau"
+  },
+  {
+    "fiets": 72,
+    "val": 89,
+    "plek": "Mahendranagar"
+  },
+  {
+    "fiets": 69,
+    "val": 28,
+    "plek": "Benjamín Aceval"
+  },
+  {
+    "fiets": 66,
+    "val": 86,
+    "plek": "Niba"
+  },
+  {
+    "fiets": 48,
+    "val": 15,
+    "plek": "Citeguh"
+  },
+  {
+    "fiets": 84,
+    "val": 69,
+    "plek": "Balabagan"
+  },
+  {
+    "fiets": 82,
+    "val": 71,
+    "plek": "Romans-sur-Isère"
+  },
+  {
+    "fiets": 60,
+    "val": 10,
+    "plek": "Butterworth"
+  }
+]

@@ -1,0 +1,4003 @@
+[
+  {
+    "fiets": 91,
+    "stad": "Pingshi",
+    "tijd": "8:12"
+  },
+  {
+    "fiets": 95,
+    "stad": "Skołyszyn",
+    "tijd": "7:28"
+  },
+  {
+    "fiets": 85,
+    "stad": "Kangar",
+    "tijd": "3:36"
+  },
+  {
+    "fiets": 34,
+    "stad": "Slavonice",
+    "tijd": "18:59"
+  },
+  {
+    "fiets": 2,
+    "stad": "Sarirejo Satu",
+    "tijd": "23:40"
+  },
+  {
+    "fiets": 91,
+    "stad": "Tippi",
+    "tijd": "19:40"
+  },
+  {
+    "fiets": 63,
+    "stad": "Kuanghe",
+    "tijd": "5:32"
+  },
+  {
+    "fiets": 54,
+    "stad": "San Francisco de Coray",
+    "tijd": "4:07"
+  },
+  {
+    "fiets": 24,
+    "stad": "Sinjār",
+    "tijd": "4:42"
+  },
+  {
+    "fiets": 45,
+    "stad": "Kirawsk",
+    "tijd": "10:44"
+  },
+  {
+    "fiets": 25,
+    "stad": "Hezuo",
+    "tijd": "2:07"
+  },
+  {
+    "fiets": 28,
+    "stad": "Katy",
+    "tijd": "4:52"
+  },
+  {
+    "fiets": 53,
+    "stad": "Urjala",
+    "tijd": "2:35"
+  },
+  {
+    "fiets": 100,
+    "stad": "Leiyang",
+    "tijd": "20:21"
+  },
+  {
+    "fiets": 19,
+    "stad": "Cagbang",
+    "tijd": "13:15"
+  },
+  {
+    "fiets": 30,
+    "stad": "Antalaha",
+    "tijd": "0:20"
+  },
+  {
+    "fiets": 56,
+    "stad": "Huangtukuang",
+    "tijd": "2:05"
+  },
+  {
+    "fiets": 91,
+    "stad": "Severobaykal’sk",
+    "tijd": "20:15"
+  },
+  {
+    "fiets": 90,
+    "stad": "Xiaochi",
+    "tijd": "2:47"
+  },
+  {
+    "fiets": 84,
+    "stad": "Jarocin",
+    "tijd": "12:11"
+  },
+  {
+    "fiets": 15,
+    "stad": "Heishan",
+    "tijd": "3:06"
+  },
+  {
+    "fiets": 9,
+    "stad": "Alphen aan den Rijn",
+    "tijd": "23:51"
+  },
+  {
+    "fiets": 72,
+    "stad": "Espanola",
+    "tijd": "15:45"
+  },
+  {
+    "fiets": 76,
+    "stad": "Muyuzi",
+    "tijd": "16:00"
+  },
+  {
+    "fiets": 33,
+    "stad": "Matanzas",
+    "tijd": "8:43"
+  },
+  {
+    "fiets": 28,
+    "stad": "Fenkeng",
+    "tijd": "7:23"
+  },
+  {
+    "fiets": 49,
+    "stad": "Lubochnia",
+    "tijd": "22:24"
+  },
+  {
+    "fiets": 34,
+    "stad": "Zuwārah",
+    "tijd": "16:39"
+  },
+  {
+    "fiets": 66,
+    "stad": "Diourbel",
+    "tijd": "22:31"
+  },
+  {
+    "fiets": 14,
+    "stad": "Itsandra",
+    "tijd": "7:41"
+  },
+  {
+    "fiets": 50,
+    "stad": "Pocrí",
+    "tijd": "13:50"
+  },
+  {
+    "fiets": 24,
+    "stad": "Jorowaru Daya",
+    "tijd": "23:33"
+  },
+  {
+    "fiets": 12,
+    "stad": "Banaba",
+    "tijd": "18:34"
+  },
+  {
+    "fiets": 85,
+    "stad": "Memória",
+    "tijd": "6:50"
+  },
+  {
+    "fiets": 73,
+    "stad": "Bryansk",
+    "tijd": "16:33"
+  },
+  {
+    "fiets": 90,
+    "stad": "20 de Noviembre",
+    "tijd": "9:24"
+  },
+  {
+    "fiets": 38,
+    "stad": "Kara-Balta",
+    "tijd": "14:48"
+  },
+  {
+    "fiets": 1,
+    "stad": "Cipunglu",
+    "tijd": "4:32"
+  },
+  {
+    "fiets": 1,
+    "stad": "Bakhmach",
+    "tijd": "15:36"
+  },
+  {
+    "fiets": 90,
+    "stad": "Si’en",
+    "tijd": "15:26"
+  },
+  {
+    "fiets": 23,
+    "stad": "Nam Sách",
+    "tijd": "17:01"
+  },
+  {
+    "fiets": 19,
+    "stad": "Bisert’",
+    "tijd": "15:16"
+  },
+  {
+    "fiets": 85,
+    "stad": "Hezheng Chengguanzhen",
+    "tijd": "12:39"
+  },
+  {
+    "fiets": 90,
+    "stad": "Liji",
+    "tijd": "4:30"
+  },
+  {
+    "fiets": 88,
+    "stad": "Qianjin",
+    "tijd": "9:33"
+  },
+  {
+    "fiets": 43,
+    "stad": "Huai Mek",
+    "tijd": "11:23"
+  },
+  {
+    "fiets": 88,
+    "stad": "Pato-o",
+    "tijd": "19:12"
+  },
+  {
+    "fiets": 93,
+    "stad": "München",
+    "tijd": "22:34"
+  },
+  {
+    "fiets": 28,
+    "stad": "Piuí",
+    "tijd": "19:55"
+  },
+  {
+    "fiets": 88,
+    "stad": "Obigarm",
+    "tijd": "6:53"
+  },
+  {
+    "fiets": 42,
+    "stad": "Holoubkov",
+    "tijd": "10:38"
+  },
+  {
+    "fiets": 70,
+    "stad": "Shawan",
+    "tijd": "6:09"
+  },
+  {
+    "fiets": 78,
+    "stad": "Urjala",
+    "tijd": "7:03"
+  },
+  {
+    "fiets": 21,
+    "stad": "Marne-la-Vallée",
+    "tijd": "3:26"
+  },
+  {
+    "fiets": 37,
+    "stad": "Danderyd",
+    "tijd": "13:44"
+  },
+  {
+    "fiets": 34,
+    "stad": "Cañaveral",
+    "tijd": "21:45"
+  },
+  {
+    "fiets": 100,
+    "stad": "Xingfeng",
+    "tijd": "14:44"
+  },
+  {
+    "fiets": 100,
+    "stad": "Padova",
+    "tijd": "10:05"
+  },
+  {
+    "fiets": 62,
+    "stad": "Paizhou",
+    "tijd": "23:38"
+  },
+  {
+    "fiets": 78,
+    "stad": "Sredno Konjare",
+    "tijd": "4:42"
+  },
+  {
+    "fiets": 43,
+    "stad": "Ishikawa",
+    "tijd": "1:42"
+  },
+  {
+    "fiets": 81,
+    "stad": "Tumauini",
+    "tijd": "5:05"
+  },
+  {
+    "fiets": 37,
+    "stad": "Mons",
+    "tijd": "17:54"
+  },
+  {
+    "fiets": 18,
+    "stad": "Bendan",
+    "tijd": "7:37"
+  },
+  {
+    "fiets": 37,
+    "stad": "Hampang",
+    "tijd": "12:48"
+  },
+  {
+    "fiets": 82,
+    "stad": "Sŭedinenie",
+    "tijd": "6:26"
+  },
+  {
+    "fiets": 99,
+    "stad": "Dalazi",
+    "tijd": "10:09"
+  },
+  {
+    "fiets": 34,
+    "stad": "Vincennes",
+    "tijd": "22:37"
+  },
+  {
+    "fiets": 97,
+    "stad": "Torres Vedras",
+    "tijd": "6:52"
+  },
+  {
+    "fiets": 20,
+    "stad": "Sussex",
+    "tijd": "12:22"
+  },
+  {
+    "fiets": 1,
+    "stad": "Mollas",
+    "tijd": "7:46"
+  },
+  {
+    "fiets": 43,
+    "stad": "Tilburg",
+    "tijd": "23:48"
+  },
+  {
+    "fiets": 83,
+    "stad": "Punata",
+    "tijd": "2:30"
+  },
+  {
+    "fiets": 45,
+    "stad": "Dengmingsi",
+    "tijd": "19:20"
+  },
+  {
+    "fiets": 100,
+    "stad": "Hostos",
+    "tijd": "14:42"
+  },
+  {
+    "fiets": 7,
+    "stad": "Stará Ves nad Ondřejnicí",
+    "tijd": "5:54"
+  },
+  {
+    "fiets": 56,
+    "stad": "Bayt Maqdūm",
+    "tijd": "18:07"
+  },
+  {
+    "fiets": 37,
+    "stad": "Hujirt",
+    "tijd": "4:22"
+  },
+  {
+    "fiets": 100,
+    "stad": "Rosario",
+    "tijd": "10:22"
+  },
+  {
+    "fiets": 50,
+    "stad": "Dmitrov",
+    "tijd": "12:46"
+  },
+  {
+    "fiets": 16,
+    "stad": "Sumberarumkrajan",
+    "tijd": "8:54"
+  },
+  {
+    "fiets": 86,
+    "stad": "Mohammedia",
+    "tijd": "4:02"
+  },
+  {
+    "fiets": 78,
+    "stad": "Verd",
+    "tijd": "16:05"
+  },
+  {
+    "fiets": 46,
+    "stad": "Aqqan",
+    "tijd": "7:11"
+  },
+  {
+    "fiets": 13,
+    "stad": "Matsubara",
+    "tijd": "3:10"
+  },
+  {
+    "fiets": 23,
+    "stad": "Nam Sách",
+    "tijd": "14:19"
+  },
+  {
+    "fiets": 21,
+    "stad": "Belogorskīy",
+    "tijd": "20:47"
+  },
+  {
+    "fiets": 20,
+    "stad": "Şūr",
+    "tijd": "20:40"
+  },
+  {
+    "fiets": 72,
+    "stad": "Tours",
+    "tijd": "3:29"
+  },
+  {
+    "fiets": 33,
+    "stad": "Bastan",
+    "tijd": "22:41"
+  },
+  {
+    "fiets": 4,
+    "stad": "Agoo",
+    "tijd": "22:23"
+  },
+  {
+    "fiets": 35,
+    "stad": "Sung Noen",
+    "tijd": "14:59"
+  },
+  {
+    "fiets": 6,
+    "stad": "Główczyce",
+    "tijd": "3:41"
+  },
+  {
+    "fiets": 47,
+    "stad": "Kilju",
+    "tijd": "11:38"
+  },
+  {
+    "fiets": 74,
+    "stad": "Kingston",
+    "tijd": "13:15"
+  },
+  {
+    "fiets": 87,
+    "stad": "Canauay",
+    "tijd": "18:50"
+  },
+  {
+    "fiets": 48,
+    "stad": "Talakag",
+    "tijd": "15:55"
+  },
+  {
+    "fiets": 95,
+    "stad": "Kazo",
+    "tijd": "3:43"
+  },
+  {
+    "fiets": 57,
+    "stad": "Rzepiennik Strzyżewski",
+    "tijd": "0:07"
+  },
+  {
+    "fiets": 54,
+    "stad": "Pupiales",
+    "tijd": "16:37"
+  },
+  {
+    "fiets": 23,
+    "stad": "Ekazhevo",
+    "tijd": "17:21"
+  },
+  {
+    "fiets": 23,
+    "stad": "Mirzāpur",
+    "tijd": "3:46"
+  },
+  {
+    "fiets": 50,
+    "stad": "Cradock",
+    "tijd": "22:23"
+  },
+  {
+    "fiets": 36,
+    "stad": "Kerrobert",
+    "tijd": "21:28"
+  },
+  {
+    "fiets": 80,
+    "stad": "Kapuan",
+    "tijd": "23:32"
+  },
+  {
+    "fiets": 24,
+    "stad": "Sungai Iyu",
+    "tijd": "5:53"
+  },
+  {
+    "fiets": 15,
+    "stad": "Angren",
+    "tijd": "16:31"
+  },
+  {
+    "fiets": 64,
+    "stad": "Genova",
+    "tijd": "10:55"
+  },
+  {
+    "fiets": 73,
+    "stad": "Kaduheuleut",
+    "tijd": "13:42"
+  },
+  {
+    "fiets": 62,
+    "stad": "Três Rios",
+    "tijd": "16:38"
+  },
+  {
+    "fiets": 93,
+    "stad": "Mercedes",
+    "tijd": "18:13"
+  },
+  {
+    "fiets": 9,
+    "stad": "Itsandra",
+    "tijd": "23:18"
+  },
+  {
+    "fiets": 11,
+    "stad": "Obollo-Afor",
+    "tijd": "8:09"
+  },
+  {
+    "fiets": 20,
+    "stad": "Tonglin",
+    "tijd": "13:10"
+  },
+  {
+    "fiets": 100,
+    "stad": "Pechenizhyn",
+    "tijd": "21:49"
+  },
+  {
+    "fiets": 54,
+    "stad": "Bárrio",
+    "tijd": "4:51"
+  },
+  {
+    "fiets": 92,
+    "stad": "Chashnikovo",
+    "tijd": "16:56"
+  },
+  {
+    "fiets": 5,
+    "stad": "Puolanka",
+    "tijd": "7:10"
+  },
+  {
+    "fiets": 12,
+    "stad": "Lagny-sur-Marne",
+    "tijd": "18:56"
+  },
+  {
+    "fiets": 1,
+    "stad": "Uzda",
+    "tijd": "16:17"
+  },
+  {
+    "fiets": 71,
+    "stad": "Cireundang",
+    "tijd": "19:03"
+  },
+  {
+    "fiets": 72,
+    "stad": "Runović",
+    "tijd": "12:32"
+  },
+  {
+    "fiets": 8,
+    "stad": "Haoshui",
+    "tijd": "17:26"
+  },
+  {
+    "fiets": 27,
+    "stad": "Américo Brasiliense",
+    "tijd": "11:54"
+  },
+  {
+    "fiets": 58,
+    "stad": "Jinsha",
+    "tijd": "9:17"
+  },
+  {
+    "fiets": 68,
+    "stad": "Tabunok",
+    "tijd": "17:26"
+  },
+  {
+    "fiets": 63,
+    "stad": "Songyuan",
+    "tijd": "18:58"
+  },
+  {
+    "fiets": 25,
+    "stad": "Saint-Lambert-de-Lauzon",
+    "tijd": "6:18"
+  },
+  {
+    "fiets": 24,
+    "stad": "Guadalupe Victoria",
+    "tijd": "3:40"
+  },
+  {
+    "fiets": 69,
+    "stad": "Jiangwei",
+    "tijd": "16:18"
+  },
+  {
+    "fiets": 94,
+    "stad": "Repentigny",
+    "tijd": "18:15"
+  },
+  {
+    "fiets": 52,
+    "stad": "Bonebone",
+    "tijd": "5:31"
+  },
+  {
+    "fiets": 26,
+    "stad": "Mooka",
+    "tijd": "19:29"
+  },
+  {
+    "fiets": 12,
+    "stad": "Izobil’nyy",
+    "tijd": "9:11"
+  },
+  {
+    "fiets": 63,
+    "stad": "Spring",
+    "tijd": "21:24"
+  },
+  {
+    "fiets": 59,
+    "stad": "Tía Juana",
+    "tijd": "23:41"
+  },
+  {
+    "fiets": 14,
+    "stad": "Lanot",
+    "tijd": "19:38"
+  },
+  {
+    "fiets": 62,
+    "stad": "Nangka",
+    "tijd": "3:04"
+  },
+  {
+    "fiets": 46,
+    "stad": "Sabá",
+    "tijd": "21:07"
+  },
+  {
+    "fiets": 30,
+    "stad": "Silca",
+    "tijd": "12:19"
+  },
+  {
+    "fiets": 90,
+    "stad": "São Domingos",
+    "tijd": "11:31"
+  },
+  {
+    "fiets": 44,
+    "stad": "Hägersten",
+    "tijd": "1:05"
+  },
+  {
+    "fiets": 56,
+    "stad": "Cabalaoangan",
+    "tijd": "15:18"
+  },
+  {
+    "fiets": 40,
+    "stad": "Barlinek",
+    "tijd": "3:15"
+  },
+  {
+    "fiets": 46,
+    "stad": "Muhoroni",
+    "tijd": "12:14"
+  },
+  {
+    "fiets": 31,
+    "stad": "Niba",
+    "tijd": "22:48"
+  },
+  {
+    "fiets": 36,
+    "stad": "Minas de Oro",
+    "tijd": "2:21"
+  },
+  {
+    "fiets": 32,
+    "stad": "Wageningen",
+    "tijd": "9:25"
+  },
+  {
+    "fiets": 36,
+    "stad": "Den Haag",
+    "tijd": "2:21"
+  },
+  {
+    "fiets": 23,
+    "stad": "Gaobu",
+    "tijd": "6:08"
+  },
+  {
+    "fiets": 78,
+    "stad": "Kampokpok",
+    "tijd": "11:29"
+  },
+  {
+    "fiets": 1,
+    "stad": "Meliau",
+    "tijd": "5:59"
+  },
+  {
+    "fiets": 98,
+    "stad": "Lodja",
+    "tijd": "13:45"
+  },
+  {
+    "fiets": 64,
+    "stad": "Klenica",
+    "tijd": "15:36"
+  },
+  {
+    "fiets": 52,
+    "stad": "Dulce Nombre de Culmí",
+    "tijd": "9:57"
+  },
+  {
+    "fiets": 25,
+    "stad": "Atsipópoulon",
+    "tijd": "7:03"
+  },
+  {
+    "fiets": 70,
+    "stad": "Tampa",
+    "tijd": "4:45"
+  },
+  {
+    "fiets": 75,
+    "stad": "Cerrito",
+    "tijd": "5:40"
+  },
+  {
+    "fiets": 22,
+    "stad": "Xambabazar",
+    "tijd": "1:57"
+  },
+  {
+    "fiets": 42,
+    "stad": "Digdig",
+    "tijd": "0:19"
+  },
+  {
+    "fiets": 44,
+    "stad": "Lokosovo",
+    "tijd": "18:06"
+  },
+  {
+    "fiets": 47,
+    "stad": "Nahrīn",
+    "tijd": "20:31"
+  },
+  {
+    "fiets": 31,
+    "stad": "Cibitung",
+    "tijd": "1:27"
+  },
+  {
+    "fiets": 49,
+    "stad": "Teresa",
+    "tijd": "11:23"
+  },
+  {
+    "fiets": 81,
+    "stad": "Buriti Bravo",
+    "tijd": "12:35"
+  },
+  {
+    "fiets": 98,
+    "stad": "Agpangi",
+    "tijd": "2:44"
+  },
+  {
+    "fiets": 11,
+    "stad": "Tempe",
+    "tijd": "16:46"
+  },
+  {
+    "fiets": 100,
+    "stad": "Belfort",
+    "tijd": "2:48"
+  },
+  {
+    "fiets": 6,
+    "stad": "Lukovica pri Domžalah",
+    "tijd": "13:02"
+  },
+  {
+    "fiets": 39,
+    "stad": "Kamphaeng Phet",
+    "tijd": "23:32"
+  },
+  {
+    "fiets": 69,
+    "stad": "Cumedak",
+    "tijd": "10:55"
+  },
+  {
+    "fiets": 93,
+    "stad": "Guanshan",
+    "tijd": "5:39"
+  },
+  {
+    "fiets": 4,
+    "stad": "Huwei",
+    "tijd": "13:13"
+  },
+  {
+    "fiets": 12,
+    "stad": "Balpyk Bī",
+    "tijd": "5:35"
+  },
+  {
+    "fiets": 99,
+    "stad": "Salinópolis",
+    "tijd": "15:38"
+  },
+  {
+    "fiets": 88,
+    "stad": "Borek",
+    "tijd": "9:56"
+  },
+  {
+    "fiets": 90,
+    "stad": "Calape",
+    "tijd": "22:21"
+  },
+  {
+    "fiets": 75,
+    "stad": "Qutqashen",
+    "tijd": "6:40"
+  },
+  {
+    "fiets": 100,
+    "stad": "Tromsø",
+    "tijd": "22:06"
+  },
+  {
+    "fiets": 29,
+    "stad": "Žamberk",
+    "tijd": "23:04"
+  },
+  {
+    "fiets": 42,
+    "stad": "Shangyuan",
+    "tijd": "23:46"
+  },
+  {
+    "fiets": 61,
+    "stad": "Dasol",
+    "tijd": "13:44"
+  },
+  {
+    "fiets": 32,
+    "stad": "Tianzhou",
+    "tijd": "16:46"
+  },
+  {
+    "fiets": 31,
+    "stad": "Capelinha",
+    "tijd": "0:43"
+  },
+  {
+    "fiets": 42,
+    "stad": "Balboa",
+    "tijd": "0:16"
+  },
+  {
+    "fiets": 4,
+    "stad": "Manokwari",
+    "tijd": "21:40"
+  },
+  {
+    "fiets": 4,
+    "stad": "Créteil",
+    "tijd": "16:12"
+  },
+  {
+    "fiets": 46,
+    "stad": "Plumtree",
+    "tijd": "10:53"
+  },
+  {
+    "fiets": 5,
+    "stad": "Guxi",
+    "tijd": "11:06"
+  },
+  {
+    "fiets": 32,
+    "stad": "Eshan",
+    "tijd": "11:38"
+  },
+  {
+    "fiets": 62,
+    "stad": "Ndofane",
+    "tijd": "8:06"
+  },
+  {
+    "fiets": 28,
+    "stad": "Ōzu",
+    "tijd": "3:43"
+  },
+  {
+    "fiets": 88,
+    "stad": "Haebaru",
+    "tijd": "10:37"
+  },
+  {
+    "fiets": 59,
+    "stad": "Estância",
+    "tijd": "6:20"
+  },
+  {
+    "fiets": 18,
+    "stad": "Pakel",
+    "tijd": "7:08"
+  },
+  {
+    "fiets": 24,
+    "stad": "Gaotian",
+    "tijd": "10:02"
+  },
+  {
+    "fiets": 10,
+    "stad": "Madīnat Sittah Uktūbar",
+    "tijd": "2:09"
+  },
+  {
+    "fiets": 47,
+    "stad": "Hartford",
+    "tijd": "4:05"
+  },
+  {
+    "fiets": 67,
+    "stad": "Nobinobi",
+    "tijd": "10:07"
+  },
+  {
+    "fiets": 68,
+    "stad": "Camanducaia",
+    "tijd": "2:08"
+  },
+  {
+    "fiets": 5,
+    "stad": "Cigebrok",
+    "tijd": "21:27"
+  },
+  {
+    "fiets": 7,
+    "stad": "Dolní Černilov",
+    "tijd": "5:25"
+  },
+  {
+    "fiets": 56,
+    "stad": "Haninge",
+    "tijd": "14:02"
+  },
+  {
+    "fiets": 95,
+    "stad": "Oibioin",
+    "tijd": "3:25"
+  },
+  {
+    "fiets": 29,
+    "stad": "Huangnan",
+    "tijd": "12:43"
+  },
+  {
+    "fiets": 58,
+    "stad": "Bangkle",
+    "tijd": "22:35"
+  },
+  {
+    "fiets": 16,
+    "stad": "Zimovniki",
+    "tijd": "21:10"
+  },
+  {
+    "fiets": 99,
+    "stad": "Tromsø",
+    "tijd": "0:01"
+  },
+  {
+    "fiets": 75,
+    "stad": "Haitou",
+    "tijd": "13:17"
+  },
+  {
+    "fiets": 39,
+    "stad": "Konary",
+    "tijd": "4:29"
+  },
+  {
+    "fiets": 80,
+    "stad": "Kalāt-e Nāderī",
+    "tijd": "19:18"
+  },
+  {
+    "fiets": 99,
+    "stad": "Zuogaiduoma",
+    "tijd": "22:02"
+  },
+  {
+    "fiets": 48,
+    "stad": "Santa Cecília",
+    "tijd": "6:44"
+  },
+  {
+    "fiets": 52,
+    "stad": "Hanbin",
+    "tijd": "11:16"
+  },
+  {
+    "fiets": 76,
+    "stad": "Changdai",
+    "tijd": "8:07"
+  },
+  {
+    "fiets": 11,
+    "stad": "Lincheng",
+    "tijd": "17:50"
+  },
+  {
+    "fiets": 42,
+    "stad": "Toba Tek Singh",
+    "tijd": "6:23"
+  },
+  {
+    "fiets": 73,
+    "stad": "Tigil’",
+    "tijd": "23:16"
+  },
+  {
+    "fiets": 75,
+    "stad": "Oslo",
+    "tijd": "11:14"
+  },
+  {
+    "fiets": 97,
+    "stad": "Brušperk",
+    "tijd": "23:54"
+  },
+  {
+    "fiets": 5,
+    "stad": "Wangcun",
+    "tijd": "21:23"
+  },
+  {
+    "fiets": 92,
+    "stad": "Cololaca",
+    "tijd": "15:42"
+  },
+  {
+    "fiets": 100,
+    "stad": "Krasnaya Polyana",
+    "tijd": "16:19"
+  },
+  {
+    "fiets": 73,
+    "stad": "Johanneshov",
+    "tijd": "23:07"
+  },
+  {
+    "fiets": 38,
+    "stad": "Xinsheng",
+    "tijd": "18:00"
+  },
+  {
+    "fiets": 45,
+    "stad": "Ash Sharyah",
+    "tijd": "9:20"
+  },
+  {
+    "fiets": 26,
+    "stad": "Karlskoga",
+    "tijd": "0:18"
+  },
+  {
+    "fiets": 51,
+    "stad": "Arcoverde",
+    "tijd": "2:26"
+  },
+  {
+    "fiets": 79,
+    "stad": "Barg-e Matāl",
+    "tijd": "5:45"
+  },
+  {
+    "fiets": 36,
+    "stad": "Lago dos Rodrigues",
+    "tijd": "3:20"
+  },
+  {
+    "fiets": 68,
+    "stad": "Bánica",
+    "tijd": "4:28"
+  },
+  {
+    "fiets": 18,
+    "stad": "Nara",
+    "tijd": "6:56"
+  },
+  {
+    "fiets": 27,
+    "stad": "Camacha",
+    "tijd": "7:45"
+  },
+  {
+    "fiets": 24,
+    "stad": "Cipancur",
+    "tijd": "6:17"
+  },
+  {
+    "fiets": 32,
+    "stad": "Nukuoro",
+    "tijd": "13:23"
+  },
+  {
+    "fiets": 92,
+    "stad": "Shuanghekou",
+    "tijd": "23:05"
+  },
+  {
+    "fiets": 5,
+    "stad": "Anjō",
+    "tijd": "6:40"
+  },
+  {
+    "fiets": 21,
+    "stad": "Beicang",
+    "tijd": "8:37"
+  },
+  {
+    "fiets": 91,
+    "stad": "Chaykovskaya",
+    "tijd": "18:34"
+  },
+  {
+    "fiets": 19,
+    "stad": "Coronel",
+    "tijd": "3:19"
+  },
+  {
+    "fiets": 40,
+    "stad": "Leudelange",
+    "tijd": "1:55"
+  },
+  {
+    "fiets": 91,
+    "stad": "Fovissste",
+    "tijd": "14:44"
+  },
+  {
+    "fiets": 16,
+    "stad": "Sanpai",
+    "tijd": "20:45"
+  },
+  {
+    "fiets": 81,
+    "stad": "Liběšice",
+    "tijd": "6:37"
+  },
+  {
+    "fiets": 86,
+    "stad": "Tawa",
+    "tijd": "16:20"
+  },
+  {
+    "fiets": 77,
+    "stad": "Springfield",
+    "tijd": "5:38"
+  },
+  {
+    "fiets": 46,
+    "stad": "Metallostroy",
+    "tijd": "17:22"
+  },
+  {
+    "fiets": 68,
+    "stad": "Dalmeny",
+    "tijd": "15:46"
+  },
+  {
+    "fiets": 84,
+    "stad": "Xiangxiang",
+    "tijd": "20:44"
+  },
+  {
+    "fiets": 85,
+    "stad": "Rechitsy",
+    "tijd": "15:17"
+  },
+  {
+    "fiets": 65,
+    "stad": "Bauchi",
+    "tijd": "1:35"
+  },
+  {
+    "fiets": 62,
+    "stad": "Izumo",
+    "tijd": "2:22"
+  },
+  {
+    "fiets": 94,
+    "stad": "Krajan Rowokangkung",
+    "tijd": "21:23"
+  },
+  {
+    "fiets": 90,
+    "stad": "Zhucun",
+    "tijd": "21:23"
+  },
+  {
+    "fiets": 86,
+    "stad": "Ilići",
+    "tijd": "19:26"
+  },
+  {
+    "fiets": 16,
+    "stad": "Goujie",
+    "tijd": "9:38"
+  },
+  {
+    "fiets": 4,
+    "stad": "Zhangbagou",
+    "tijd": "21:51"
+  },
+  {
+    "fiets": 86,
+    "stad": "Barra de São Francisco",
+    "tijd": "1:40"
+  },
+  {
+    "fiets": 33,
+    "stad": "Bankaw",
+    "tijd": "8:23"
+  },
+  {
+    "fiets": 66,
+    "stad": "Lepaterique",
+    "tijd": "23:42"
+  },
+  {
+    "fiets": 91,
+    "stad": "Paris La Défense",
+    "tijd": "6:46"
+  },
+  {
+    "fiets": 5,
+    "stad": "Dioila",
+    "tijd": "22:02"
+  },
+  {
+    "fiets": 27,
+    "stad": "Mġarr",
+    "tijd": "5:30"
+  },
+  {
+    "fiets": 69,
+    "stad": "Naviraí",
+    "tijd": "21:56"
+  },
+  {
+    "fiets": 43,
+    "stad": "Mariara",
+    "tijd": "19:15"
+  },
+  {
+    "fiets": 58,
+    "stad": "Morawica",
+    "tijd": "0:31"
+  },
+  {
+    "fiets": 71,
+    "stad": "Chumpi",
+    "tijd": "19:31"
+  },
+  {
+    "fiets": 13,
+    "stad": "Banjar Jambe Baleran",
+    "tijd": "11:22"
+  },
+  {
+    "fiets": 31,
+    "stad": "Chulabhorn",
+    "tijd": "3:26"
+  },
+  {
+    "fiets": 18,
+    "stad": "Petaling Jaya",
+    "tijd": "22:06"
+  },
+  {
+    "fiets": 10,
+    "stad": "Heqiao",
+    "tijd": "12:17"
+  },
+  {
+    "fiets": 57,
+    "stad": "Nam Khun",
+    "tijd": "10:30"
+  },
+  {
+    "fiets": 20,
+    "stad": "Sarlat-la-Canéda",
+    "tijd": "9:08"
+  },
+  {
+    "fiets": 50,
+    "stad": "Cincinnati",
+    "tijd": "20:28"
+  },
+  {
+    "fiets": 57,
+    "stad": "Las Flores",
+    "tijd": "4:48"
+  },
+  {
+    "fiets": 3,
+    "stad": "Karakabak",
+    "tijd": "11:36"
+  },
+  {
+    "fiets": 77,
+    "stad": "Leping",
+    "tijd": "2:14"
+  },
+  {
+    "fiets": 74,
+    "stad": "Caxias do Sul",
+    "tijd": "1:59"
+  },
+  {
+    "fiets": 3,
+    "stad": "Anningqu",
+    "tijd": "18:34"
+  },
+  {
+    "fiets": 74,
+    "stad": "Licuan",
+    "tijd": "22:42"
+  },
+  {
+    "fiets": 17,
+    "stad": "Sauce",
+    "tijd": "17:52"
+  },
+  {
+    "fiets": 42,
+    "stad": "Grojec",
+    "tijd": "4:30"
+  },
+  {
+    "fiets": 97,
+    "stad": "Tayabo",
+    "tijd": "1:32"
+  },
+  {
+    "fiets": 8,
+    "stad": "Niort",
+    "tijd": "12:39"
+  },
+  {
+    "fiets": 82,
+    "stad": "Bāsawul",
+    "tijd": "13:43"
+  },
+  {
+    "fiets": 91,
+    "stad": "Kuhmalahti",
+    "tijd": "18:32"
+  },
+  {
+    "fiets": 87,
+    "stad": "Tempel",
+    "tijd": "8:30"
+  },
+  {
+    "fiets": 71,
+    "stad": "Borbon",
+    "tijd": "11:44"
+  },
+  {
+    "fiets": 88,
+    "stad": "Carlos Tejedor",
+    "tijd": "9:06"
+  },
+  {
+    "fiets": 36,
+    "stad": "Dolní Libina",
+    "tijd": "9:29"
+  },
+  {
+    "fiets": 52,
+    "stad": "Kara-Balta",
+    "tijd": "14:00"
+  },
+  {
+    "fiets": 33,
+    "stad": "Kilimatinde",
+    "tijd": "5:23"
+  },
+  {
+    "fiets": 71,
+    "stad": "Vaxholm",
+    "tijd": "13:58"
+  },
+  {
+    "fiets": 99,
+    "stad": "Hamilton",
+    "tijd": "0:14"
+  },
+  {
+    "fiets": 89,
+    "stad": "Luka nad Jihlavou",
+    "tijd": "15:54"
+  },
+  {
+    "fiets": 49,
+    "stad": "Requena",
+    "tijd": "17:16"
+  },
+  {
+    "fiets": 3,
+    "stad": "Tortosa",
+    "tijd": "11:00"
+  },
+  {
+    "fiets": 49,
+    "stad": "Hekinan",
+    "tijd": "7:44"
+  },
+  {
+    "fiets": 92,
+    "stad": "København",
+    "tijd": "23:24"
+  },
+  {
+    "fiets": 17,
+    "stad": "Wutun",
+    "tijd": "3:43"
+  },
+  {
+    "fiets": 95,
+    "stad": "Houston",
+    "tijd": "7:34"
+  },
+  {
+    "fiets": 67,
+    "stad": "Litvínovice",
+    "tijd": "4:59"
+  },
+  {
+    "fiets": 89,
+    "stad": "Santa Valha",
+    "tijd": "14:14"
+  },
+  {
+    "fiets": 88,
+    "stad": "Gaomi",
+    "tijd": "10:30"
+  },
+  {
+    "fiets": 54,
+    "stad": "Bindang",
+    "tijd": "8:47"
+  },
+  {
+    "fiets": 19,
+    "stad": "Grekan",
+    "tijd": "12:22"
+  },
+  {
+    "fiets": 47,
+    "stad": "Jimsar",
+    "tijd": "19:03"
+  },
+  {
+    "fiets": 32,
+    "stad": "Kafr Baţnā",
+    "tijd": "7:37"
+  },
+  {
+    "fiets": 59,
+    "stad": "Pavlivka",
+    "tijd": "20:41"
+  },
+  {
+    "fiets": 88,
+    "stad": "Huquan",
+    "tijd": "2:57"
+  },
+  {
+    "fiets": 52,
+    "stad": "Clarines",
+    "tijd": "20:07"
+  },
+  {
+    "fiets": 79,
+    "stad": "Richards Bay",
+    "tijd": "8:09"
+  },
+  {
+    "fiets": 84,
+    "stad": "Bayshint",
+    "tijd": "3:05"
+  },
+  {
+    "fiets": 20,
+    "stad": "Ugljan",
+    "tijd": "4:04"
+  },
+  {
+    "fiets": 68,
+    "stad": "Richmond",
+    "tijd": "0:15"
+  },
+  {
+    "fiets": 15,
+    "stad": "Darwin",
+    "tijd": "4:18"
+  },
+  {
+    "fiets": 98,
+    "stad": "Bilhorod-Dnistrovs’kyy",
+    "tijd": "4:52"
+  },
+  {
+    "fiets": 26,
+    "stad": "Medina Estates",
+    "tijd": "2:34"
+  },
+  {
+    "fiets": 67,
+    "stad": "Tāndo Mittha Khān",
+    "tijd": "7:56"
+  },
+  {
+    "fiets": 23,
+    "stad": "Järfälla",
+    "tijd": "18:17"
+  },
+  {
+    "fiets": 29,
+    "stad": "Serere",
+    "tijd": "20:12"
+  },
+  {
+    "fiets": 82,
+    "stad": "Nanhe",
+    "tijd": "19:17"
+  },
+  {
+    "fiets": 3,
+    "stad": "Fatuhilik",
+    "tijd": "14:45"
+  },
+  {
+    "fiets": 79,
+    "stad": "San Miguel",
+    "tijd": "7:40"
+  },
+  {
+    "fiets": 85,
+    "stad": "Salekhard",
+    "tijd": "4:42"
+  },
+  {
+    "fiets": 97,
+    "stad": "Pylaía",
+    "tijd": "1:25"
+  },
+  {
+    "fiets": 78,
+    "stad": "Atouguia",
+    "tijd": "17:11"
+  },
+  {
+    "fiets": 40,
+    "stad": "Uddevalla",
+    "tijd": "21:13"
+  },
+  {
+    "fiets": 35,
+    "stad": "København",
+    "tijd": "5:09"
+  },
+  {
+    "fiets": 63,
+    "stad": "Sukaraharja",
+    "tijd": "1:27"
+  },
+  {
+    "fiets": 100,
+    "stad": "Elías",
+    "tijd": "7:46"
+  },
+  {
+    "fiets": 75,
+    "stad": "Dongtai",
+    "tijd": "22:37"
+  },
+  {
+    "fiets": 90,
+    "stad": "Nīkshahr",
+    "tijd": "21:58"
+  },
+  {
+    "fiets": 35,
+    "stad": "Salmi",
+    "tijd": "22:01"
+  },
+  {
+    "fiets": 19,
+    "stad": "Ramon Magsaysay",
+    "tijd": "9:13"
+  },
+  {
+    "fiets": 8,
+    "stad": "Cipolletti",
+    "tijd": "6:08"
+  },
+  {
+    "fiets": 44,
+    "stad": "Shetangpo",
+    "tijd": "23:45"
+  },
+  {
+    "fiets": 45,
+    "stad": "Nanqiu",
+    "tijd": "2:08"
+  },
+  {
+    "fiets": 76,
+    "stad": "Mingguang",
+    "tijd": "2:13"
+  },
+  {
+    "fiets": 28,
+    "stad": "Hanamaki",
+    "tijd": "21:31"
+  },
+  {
+    "fiets": 44,
+    "stad": "Tiandian",
+    "tijd": "20:36"
+  },
+  {
+    "fiets": 19,
+    "stad": "Mianhu",
+    "tijd": "0:29"
+  },
+  {
+    "fiets": 59,
+    "stad": "Vodnjan",
+    "tijd": "22:42"
+  },
+  {
+    "fiets": 48,
+    "stad": "Columbus",
+    "tijd": "2:41"
+  },
+  {
+    "fiets": 84,
+    "stad": "Takahata",
+    "tijd": "15:35"
+  },
+  {
+    "fiets": 96,
+    "stad": "Tampere",
+    "tijd": "1:16"
+  },
+  {
+    "fiets": 66,
+    "stad": "Magdaleno Aguilar",
+    "tijd": "5:43"
+  },
+  {
+    "fiets": 60,
+    "stad": "Komsomol’skiy",
+    "tijd": "15:41"
+  },
+  {
+    "fiets": 89,
+    "stad": "Västerås",
+    "tijd": "15:48"
+  },
+  {
+    "fiets": 79,
+    "stad": "Grzechynia",
+    "tijd": "3:56"
+  },
+  {
+    "fiets": 55,
+    "stad": "Danxia",
+    "tijd": "11:13"
+  },
+  {
+    "fiets": 19,
+    "stad": "Tisno",
+    "tijd": "16:53"
+  },
+  {
+    "fiets": 59,
+    "stad": "Brezovica",
+    "tijd": "5:31"
+  },
+  {
+    "fiets": 91,
+    "stad": "Maracaibo",
+    "tijd": "7:58"
+  },
+  {
+    "fiets": 41,
+    "stad": "Verkhov’ye",
+    "tijd": "10:48"
+  },
+  {
+    "fiets": 39,
+    "stad": "Yeşilköy",
+    "tijd": "7:53"
+  },
+  {
+    "fiets": 53,
+    "stad": "Strawberry Hills",
+    "tijd": "1:09"
+  },
+  {
+    "fiets": 11,
+    "stad": "Kulonkali",
+    "tijd": "10:42"
+  },
+  {
+    "fiets": 29,
+    "stad": "Yaita",
+    "tijd": "17:15"
+  },
+  {
+    "fiets": 58,
+    "stad": "Krasnoarmiys’k",
+    "tijd": "23:34"
+  },
+  {
+    "fiets": 47,
+    "stad": "‘Uzeir",
+    "tijd": "0:13"
+  },
+  {
+    "fiets": 39,
+    "stad": "Urzuf",
+    "tijd": "21:30"
+  },
+  {
+    "fiets": 84,
+    "stad": "Mrzezino",
+    "tijd": "17:01"
+  },
+  {
+    "fiets": 39,
+    "stad": "Jianghu",
+    "tijd": "3:43"
+  },
+  {
+    "fiets": 74,
+    "stad": "Huhe",
+    "tijd": "3:21"
+  },
+  {
+    "fiets": 50,
+    "stad": "Qiaotou",
+    "tijd": "13:30"
+  },
+  {
+    "fiets": 68,
+    "stad": "Temanjang",
+    "tijd": "22:51"
+  },
+  {
+    "fiets": 95,
+    "stad": "Tiantai Chengguanzhen",
+    "tijd": "3:37"
+  },
+  {
+    "fiets": 45,
+    "stad": "Mashi",
+    "tijd": "21:18"
+  },
+  {
+    "fiets": 98,
+    "stad": "Morant Bay",
+    "tijd": "4:27"
+  },
+  {
+    "fiets": 68,
+    "stad": "Peshtera",
+    "tijd": "12:26"
+  },
+  {
+    "fiets": 72,
+    "stad": "Richmond",
+    "tijd": "4:16"
+  },
+  {
+    "fiets": 96,
+    "stad": "Zarichchya",
+    "tijd": "18:08"
+  },
+  {
+    "fiets": 82,
+    "stad": "Mugango",
+    "tijd": "7:12"
+  },
+  {
+    "fiets": 1,
+    "stad": "Tapilon",
+    "tijd": "11:20"
+  },
+  {
+    "fiets": 66,
+    "stad": "Caxarias",
+    "tijd": "23:52"
+  },
+  {
+    "fiets": 20,
+    "stad": "Salimbao",
+    "tijd": "16:28"
+  },
+  {
+    "fiets": 36,
+    "stad": "Biao",
+    "tijd": "12:45"
+  },
+  {
+    "fiets": 60,
+    "stad": "Merklín",
+    "tijd": "6:41"
+  },
+  {
+    "fiets": 16,
+    "stad": "Gijon",
+    "tijd": "1:10"
+  },
+  {
+    "fiets": 16,
+    "stad": "Plumbangan",
+    "tijd": "19:21"
+  },
+  {
+    "fiets": 32,
+    "stad": "Monte Francisco",
+    "tijd": "2:04"
+  },
+  {
+    "fiets": 37,
+    "stad": "Osoyoos",
+    "tijd": "20:40"
+  },
+  {
+    "fiets": 20,
+    "stad": "Las Palmas",
+    "tijd": "16:10"
+  },
+  {
+    "fiets": 14,
+    "stad": "Kafir Qala",
+    "tijd": "10:48"
+  },
+  {
+    "fiets": 18,
+    "stad": "Kuala Terengganu",
+    "tijd": "2:15"
+  },
+  {
+    "fiets": 77,
+    "stad": "Killam",
+    "tijd": "9:01"
+  },
+  {
+    "fiets": 24,
+    "stad": "Jiangkou",
+    "tijd": "14:46"
+  },
+  {
+    "fiets": 72,
+    "stad": "Veldhoven",
+    "tijd": "4:02"
+  },
+  {
+    "fiets": 8,
+    "stad": "Gaptsakh",
+    "tijd": "8:27"
+  },
+  {
+    "fiets": 86,
+    "stad": "Palykavichy Pyershyya",
+    "tijd": "13:28"
+  },
+  {
+    "fiets": 73,
+    "stad": "Lela",
+    "tijd": "2:56"
+  },
+  {
+    "fiets": 51,
+    "stad": "Barra",
+    "tijd": "19:31"
+  },
+  {
+    "fiets": 13,
+    "stad": "Sintansin",
+    "tijd": "12:30"
+  },
+  {
+    "fiets": 15,
+    "stad": "Xinglong",
+    "tijd": "11:32"
+  },
+  {
+    "fiets": 76,
+    "stad": "Bukhovo",
+    "tijd": "6:53"
+  },
+  {
+    "fiets": 39,
+    "stad": "Cengang",
+    "tijd": "5:11"
+  },
+  {
+    "fiets": 17,
+    "stad": "Prachatice",
+    "tijd": "23:34"
+  },
+  {
+    "fiets": 63,
+    "stad": "Galveias",
+    "tijd": "0:50"
+  },
+  {
+    "fiets": 59,
+    "stad": "Al Ḩayfah",
+    "tijd": "15:21"
+  }
+][
+  {
+    "val": 67,
+    "stad": "Tangchijie",
+    "tijd": "1:23"
+  },
+  {
+    "val": 33,
+    "stad": "Levallois-Perret",
+    "tijd": "9:07"
+  },
+  {
+    "val": 20,
+    "stad": "El Rosario",
+    "tijd": "1:01"
+  },
+  {
+    "val": 61,
+    "stad": "Waihi",
+    "tijd": "5:00"
+  },
+  {
+    "val": 64,
+    "stad": "Tuban",
+    "tijd": "21:51"
+  },
+  {
+    "val": 25,
+    "stad": "Bonak",
+    "tijd": "8:51"
+  },
+  {
+    "val": 94,
+    "stad": "Masvingo",
+    "tijd": "18:32"
+  },
+  {
+    "val": 8,
+    "stad": "Candelária",
+    "tijd": "14:07"
+  },
+  {
+    "val": 36,
+    "stad": "Paris 12",
+    "tijd": "11:21"
+  },
+  {
+    "val": 100,
+    "stad": "Berlin",
+    "tijd": "22:43"
+  },
+  {
+    "val": 90,
+    "stad": "Lazaro Cardenas",
+    "tijd": "2:09"
+  },
+  {
+    "val": 87,
+    "stad": "Yingde’er",
+    "tijd": "14:05"
+  },
+  {
+    "val": 89,
+    "stad": "Xihu",
+    "tijd": "11:34"
+  },
+  {
+    "val": 96,
+    "stad": "Le Mans",
+    "tijd": "11:40"
+  },
+  {
+    "val": 62,
+    "stad": "Zhangxiong",
+    "tijd": "16:58"
+  },
+  {
+    "val": 15,
+    "stad": "Ipoh",
+    "tijd": "21:59"
+  },
+  {
+    "val": 49,
+    "stad": "Campos do Jordão",
+    "tijd": "7:42"
+  },
+  {
+    "val": 97,
+    "stad": "Cruz del Eje",
+    "tijd": "21:37"
+  },
+  {
+    "val": 73,
+    "stad": "Bakung Utara",
+    "tijd": "5:46"
+  },
+  {
+    "val": 37,
+    "stad": "Kuala Terengganu",
+    "tijd": "21:46"
+  },
+  {
+    "val": 93,
+    "stad": "Naval",
+    "tijd": "17:02"
+  },
+  {
+    "val": 65,
+    "stad": "Almelo",
+    "tijd": "9:40"
+  },
+  {
+    "val": 10,
+    "stad": "Nong Don",
+    "tijd": "20:05"
+  },
+  {
+    "val": 75,
+    "stad": "Kihurio",
+    "tijd": "16:59"
+  },
+  {
+    "val": 10,
+    "stad": "Leyuan",
+    "tijd": "15:34"
+  },
+  {
+    "val": 1,
+    "stad": "Celendín",
+    "tijd": "13:14"
+  },
+  {
+    "val": 77,
+    "stad": "Cametá",
+    "tijd": "18:44"
+  },
+  {
+    "val": 4,
+    "stad": "Manggu",
+    "tijd": "19:36"
+  },
+  {
+    "val": 54,
+    "stad": "Roissy Charles-de-Gaulle",
+    "tijd": "8:18"
+  },
+  {
+    "val": 71,
+    "stad": "Lyudinovo",
+    "tijd": "14:30"
+  },
+  {
+    "val": 88,
+    "stad": "Kajan",
+    "tijd": "12:22"
+  },
+  {
+    "val": 93,
+    "stad": "Nam Sách",
+    "tijd": "0:08"
+  },
+  {
+    "val": 44,
+    "stad": "Huangnaihai",
+    "tijd": "14:17"
+  },
+  {
+    "val": 22,
+    "stad": "Sanfins",
+    "tijd": "21:09"
+  },
+  {
+    "val": 75,
+    "stad": "Benito Juarez",
+    "tijd": "9:04"
+  },
+  {
+    "val": 67,
+    "stad": "Jiaoziya",
+    "tijd": "3:21"
+  },
+  {
+    "val": 56,
+    "stad": "Banjar Buahan",
+    "tijd": "8:49"
+  },
+  {
+    "val": 31,
+    "stad": "Anambongan",
+    "tijd": "19:17"
+  },
+  {
+    "val": 89,
+    "stad": "Vlachovo Březí",
+    "tijd": "2:30"
+  },
+  {
+    "val": 1,
+    "stad": "Blangkejeren",
+    "tijd": "2:45"
+  },
+  {
+    "val": 79,
+    "stad": "Porto Martins",
+    "tijd": "11:28"
+  },
+  {
+    "val": 85,
+    "stad": "Modakeke",
+    "tijd": "20:05"
+  },
+  {
+    "val": 27,
+    "stad": "Ostrowsko",
+    "tijd": "18:37"
+  },
+  {
+    "val": 74,
+    "stad": "Taihe",
+    "tijd": "1:56"
+  },
+  {
+    "val": 40,
+    "stad": "Marapanim",
+    "tijd": "8:09"
+  },
+  {
+    "val": 28,
+    "stad": "Buta",
+    "tijd": "9:41"
+  },
+  {
+    "val": 43,
+    "stad": "Taen Tengah",
+    "tijd": "4:02"
+  },
+  {
+    "val": 17,
+    "stad": "San Miguel de Tucumán",
+    "tijd": "12:06"
+  },
+  {
+    "val": 54,
+    "stad": "Patarrá",
+    "tijd": "18:02"
+  },
+  {
+    "val": 46,
+    "stad": "Karlstad",
+    "tijd": "15:29"
+  },
+  {
+    "val": 15,
+    "stad": "Ratnapura",
+    "tijd": "13:14"
+  },
+  {
+    "val": 12,
+    "stad": "Ponggeok",
+    "tijd": "8:36"
+  },
+  {
+    "val": 87,
+    "stad": "Fëdorovskoye",
+    "tijd": "20:55"
+  },
+  {
+    "val": 59,
+    "stad": "Aimorés",
+    "tijd": "8:02"
+  },
+  {
+    "val": 43,
+    "stad": "Borovlyany",
+    "tijd": "7:50"
+  },
+  {
+    "val": 75,
+    "stad": "Nangong",
+    "tijd": "4:12"
+  },
+  {
+    "val": 59,
+    "stad": "Nancheng",
+    "tijd": "8:02"
+  },
+  {
+    "val": 47,
+    "stad": "Týnec",
+    "tijd": "15:52"
+  },
+  {
+    "val": 38,
+    "stad": "Leon",
+    "tijd": "10:24"
+  },
+  {
+    "val": 87,
+    "stad": "Croissy-sur-Seine",
+    "tijd": "21:18"
+  },
+  {
+    "val": 100,
+    "stad": "Purda",
+    "tijd": "12:00"
+  },
+  {
+    "val": 70,
+    "stad": "Gokwe",
+    "tijd": "13:24"
+  },
+  {
+    "val": 8,
+    "stad": "Ulaan-Uul",
+    "tijd": "2:24"
+  },
+  {
+    "val": 40,
+    "stad": "Cotia",
+    "tijd": "14:54"
+  },
+  {
+    "val": 28,
+    "stad": "Tampekan",
+    "tijd": "12:36"
+  },
+  {
+    "val": 9,
+    "stad": "Setun’",
+    "tijd": "9:46"
+  },
+  {
+    "val": 30,
+    "stad": "Rio Branco do Sul",
+    "tijd": "11:38"
+  },
+  {
+    "val": 17,
+    "stad": "Jiamaogong",
+    "tijd": "15:25"
+  },
+  {
+    "val": 66,
+    "stad": "Sacramento",
+    "tijd": "19:20"
+  },
+  {
+    "val": 8,
+    "stad": "Shambu",
+    "tijd": "16:43"
+  },
+  {
+    "val": 14,
+    "stad": "Vera Cruz",
+    "tijd": "14:30"
+  },
+  {
+    "val": 5,
+    "stad": "Sadská",
+    "tijd": "10:54"
+  },
+  {
+    "val": 22,
+    "stad": "Ngilengan",
+    "tijd": "4:06"
+  },
+  {
+    "val": 40,
+    "stad": "El Coco",
+    "tijd": "22:10"
+  },
+  {
+    "val": 5,
+    "stad": "Romblon",
+    "tijd": "4:46"
+  },
+  {
+    "val": 25,
+    "stad": "Bangluo",
+    "tijd": "20:55"
+  },
+  {
+    "val": 56,
+    "stad": "Dashiju",
+    "tijd": "17:31"
+  },
+  {
+    "val": 79,
+    "stad": "Shitan",
+    "tijd": "14:12"
+  },
+  {
+    "val": 63,
+    "stad": "Mandal",
+    "tijd": "18:55"
+  },
+  {
+    "val": 16,
+    "stad": "Kashima-shi",
+    "tijd": "6:58"
+  },
+  {
+    "val": 46,
+    "stad": "Rudnyy",
+    "tijd": "2:34"
+  },
+  {
+    "val": 36,
+    "stad": "Popova",
+    "tijd": "15:06"
+  },
+  {
+    "val": 12,
+    "stad": "Dianzi",
+    "tijd": "23:51"
+  },
+  {
+    "val": 16,
+    "stad": "Siasi",
+    "tijd": "7:47"
+  },
+  {
+    "val": 97,
+    "stad": "Penteado",
+    "tijd": "11:22"
+  },
+  {
+    "val": 47,
+    "stad": "Yono",
+    "tijd": "5:30"
+  },
+  {
+    "val": 70,
+    "stad": "Rakvere",
+    "tijd": "0:27"
+  },
+  {
+    "val": 5,
+    "stad": "Los Rastrojos",
+    "tijd": "10:33"
+  },
+  {
+    "val": 66,
+    "stad": "Pamplona",
+    "tijd": "0:02"
+  },
+  {
+    "val": 70,
+    "stad": "Simuay",
+    "tijd": "16:16"
+  },
+  {
+    "val": 70,
+    "stad": "Wangon",
+    "tijd": "18:28"
+  },
+  {
+    "val": 82,
+    "stad": "Ōno-hara",
+    "tijd": "7:07"
+  },
+  {
+    "val": 84,
+    "stad": "Lindome",
+    "tijd": "10:38"
+  },
+  {
+    "val": 21,
+    "stad": "Tiexi",
+    "tijd": "2:53"
+  },
+  {
+    "val": 38,
+    "stad": "Mỹ Tho",
+    "tijd": "2:26"
+  },
+  {
+    "val": 87,
+    "stad": "Sakai",
+    "tijd": "3:57"
+  },
+  {
+    "val": 92,
+    "stad": "Genyem",
+    "tijd": "15:49"
+  },
+  {
+    "val": 41,
+    "stad": "Mount Darwin",
+    "tijd": "14:34"
+  },
+  {
+    "val": 50,
+    "stad": "København",
+    "tijd": "10:04"
+  },
+  {
+    "val": 34,
+    "stad": "Curry",
+    "tijd": "0:34"
+  },
+  {
+    "val": 87,
+    "stad": "Candelária",
+    "tijd": "19:40"
+  },
+  {
+    "val": 1,
+    "stad": "Dongqianhu",
+    "tijd": "13:55"
+  },
+  {
+    "val": 84,
+    "stad": "Viekšniai",
+    "tijd": "19:20"
+  },
+  {
+    "val": 20,
+    "stad": "Balingoan",
+    "tijd": "22:10"
+  },
+  {
+    "val": 32,
+    "stad": "Sastöbe",
+    "tijd": "0:19"
+  },
+  {
+    "val": 13,
+    "stad": "Xinyi",
+    "tijd": "11:48"
+  },
+  {
+    "val": 25,
+    "stad": "Al ‘Awjā",
+    "tijd": "15:31"
+  },
+  {
+    "val": 98,
+    "stad": "Kimry",
+    "tijd": "6:20"
+  },
+  {
+    "val": 58,
+    "stad": "Kulia Village",
+    "tijd": "18:54"
+  },
+  {
+    "val": 51,
+    "stad": "Slobodskoy",
+    "tijd": "13:31"
+  },
+  {
+    "val": 74,
+    "stad": "Satinka",
+    "tijd": "0:34"
+  },
+  {
+    "val": 35,
+    "stad": "Krasnyy Oktyabr’",
+    "tijd": "10:18"
+  },
+  {
+    "val": 33,
+    "stad": "Huazangsi",
+    "tijd": "11:43"
+  },
+  {
+    "val": 28,
+    "stad": "Pandat",
+    "tijd": "17:15"
+  },
+  {
+    "val": 98,
+    "stad": "Żabieniec",
+    "tijd": "11:14"
+  },
+  {
+    "val": 93,
+    "stad": "Rivesaltes",
+    "tijd": "17:18"
+  },
+  {
+    "val": 1,
+    "stad": "Chishmy",
+    "tijd": "9:11"
+  },
+  {
+    "val": 12,
+    "stad": "Juxing",
+    "tijd": "20:30"
+  },
+  {
+    "val": 10,
+    "stad": "Bulihan",
+    "tijd": "3:36"
+  },
+  {
+    "val": 23,
+    "stad": "Qalaikhumb",
+    "tijd": "5:10"
+  },
+  {
+    "val": 59,
+    "stad": "Ambato",
+    "tijd": "8:58"
+  },
+  {
+    "val": 50,
+    "stad": "El Quebrachal",
+    "tijd": "7:40"
+  },
+  {
+    "val": 30,
+    "stad": "Nanortalik",
+    "tijd": "0:18"
+  },
+  {
+    "val": 12,
+    "stad": "Tunggulsari",
+    "tijd": "4:51"
+  },
+  {
+    "val": 98,
+    "stad": "Gharavŭtí",
+    "tijd": "1:47"
+  },
+  {
+    "val": 6,
+    "stad": "Gondanglegi Wetan",
+    "tijd": "23:58"
+  },
+  {
+    "val": 44,
+    "stad": "Tucdao",
+    "tijd": "14:55"
+  },
+  {
+    "val": 75,
+    "stad": "Chkalov",
+    "tijd": "17:25"
+  },
+  {
+    "val": 66,
+    "stad": "Lišov",
+    "tijd": "10:34"
+  },
+  {
+    "val": 11,
+    "stad": "Xiaochi",
+    "tijd": "14:17"
+  },
+  {
+    "val": 31,
+    "stad": "Dandu",
+    "tijd": "7:26"
+  },
+  {
+    "val": 55,
+    "stad": "Staropyshminsk",
+    "tijd": "23:48"
+  },
+  {
+    "val": 83,
+    "stad": "Vale de Figueira",
+    "tijd": "7:23"
+  },
+  {
+    "val": 34,
+    "stad": "Alhambra",
+    "tijd": "14:07"
+  },
+  {
+    "val": 69,
+    "stad": "Bafilo",
+    "tijd": "14:58"
+  },
+  {
+    "val": 9,
+    "stad": "Jiangpan",
+    "tijd": "1:53"
+  },
+  {
+    "val": 18,
+    "stad": "Korolevo",
+    "tijd": "0:55"
+  },
+  {
+    "val": 4,
+    "stad": "Kebon",
+    "tijd": "11:01"
+  },
+  {
+    "val": 53,
+    "stad": "Shardara",
+    "tijd": "0:02"
+  },
+  {
+    "val": 96,
+    "stad": "Bull Savanna",
+    "tijd": "19:49"
+  },
+  {
+    "val": 73,
+    "stad": "Jombang",
+    "tijd": "2:49"
+  },
+  {
+    "val": 58,
+    "stad": "Mas‘adah",
+    "tijd": "23:24"
+  },
+  {
+    "val": 9,
+    "stad": "Czarna Białostocka",
+    "tijd": "8:59"
+  },
+  {
+    "val": 29,
+    "stad": "Luopioinen",
+    "tijd": "4:19"
+  },
+  {
+    "val": 67,
+    "stad": "Broto",
+    "tijd": "19:02"
+  },
+  {
+    "val": 37,
+    "stad": "Palmas De Gran Canaria, Las",
+    "tijd": "18:32"
+  },
+  {
+    "val": 21,
+    "stad": "Milot",
+    "tijd": "3:45"
+  },
+  {
+    "val": 53,
+    "stad": "Jiangyan",
+    "tijd": "13:21"
+  },
+  {
+    "val": 24,
+    "stad": "Inčukalns",
+    "tijd": "7:36"
+  },
+  {
+    "val": 8,
+    "stad": "Yantan",
+    "tijd": "15:25"
+  },
+  {
+    "val": 71,
+    "stad": "Tangcun",
+    "tijd": "14:37"
+  },
+  {
+    "val": 75,
+    "stad": "Bafang",
+    "tijd": "9:26"
+  },
+  {
+    "val": 19,
+    "stad": "Piskivka",
+    "tijd": "0:57"
+  },
+  {
+    "val": 9,
+    "stad": "Mejdan - Obilićevo",
+    "tijd": "17:42"
+  },
+  {
+    "val": 81,
+    "stad": "Zongga",
+    "tijd": "0:50"
+  },
+  {
+    "val": 42,
+    "stad": "Pasarnangka",
+    "tijd": "6:47"
+  },
+  {
+    "val": 96,
+    "stad": "Huancaray",
+    "tijd": "12:11"
+  },
+  {
+    "val": 39,
+    "stad": "Stockholm",
+    "tijd": "0:05"
+  },
+  {
+    "val": 4,
+    "stad": "Ituberá",
+    "tijd": "15:56"
+  },
+  {
+    "val": 91,
+    "stad": "İsmayıllı",
+    "tijd": "13:16"
+  },
+  {
+    "val": 66,
+    "stad": "Paratunka",
+    "tijd": "0:25"
+  },
+  {
+    "val": 27,
+    "stad": "Halimpu",
+    "tijd": "4:56"
+  },
+  {
+    "val": 37,
+    "stad": "Samara",
+    "tijd": "0:25"
+  },
+  {
+    "val": 29,
+    "stad": "Chornomors’ke",
+    "tijd": "14:41"
+  },
+  {
+    "val": 79,
+    "stad": "Uijeongbu-si",
+    "tijd": "3:04"
+  },
+  {
+    "val": 98,
+    "stad": "Zaojiacheng",
+    "tijd": "2:57"
+  },
+  {
+    "val": 83,
+    "stad": "Xin Bulag",
+    "tijd": "10:30"
+  },
+  {
+    "val": 22,
+    "stad": "Araouane",
+    "tijd": "18:48"
+  },
+  {
+    "val": 27,
+    "stad": "Tabu",
+    "tijd": "0:19"
+  },
+  {
+    "val": 8,
+    "stad": "Peliyagoda",
+    "tijd": "0:42"
+  },
+  {
+    "val": 78,
+    "stad": "Teruel",
+    "tijd": "15:00"
+  },
+  {
+    "val": 35,
+    "stad": "Cumadcad",
+    "tijd": "17:15"
+  },
+  {
+    "val": 76,
+    "stad": "Suibara",
+    "tijd": "10:20"
+  },
+  {
+    "val": 12,
+    "stad": "Ciseuseupan",
+    "tijd": "4:34"
+  },
+  {
+    "val": 10,
+    "stad": "Yarumal",
+    "tijd": "19:05"
+  },
+  {
+    "val": 27,
+    "stad": "Luče",
+    "tijd": "19:32"
+  },
+  {
+    "val": 30,
+    "stad": "Long Xuyên",
+    "tijd": "1:24"
+  },
+  {
+    "val": 10,
+    "stad": "El Chol",
+    "tijd": "14:30"
+  },
+  {
+    "val": 22,
+    "stad": "Querocotillo",
+    "tijd": "22:04"
+  },
+  {
+    "val": 38,
+    "stad": "Bantry",
+    "tijd": "22:18"
+  },
+  {
+    "val": 33,
+    "stad": "Sieniawa",
+    "tijd": "13:23"
+  },
+  {
+    "val": 90,
+    "stad": "Bolo",
+    "tijd": "17:44"
+  },
+  {
+    "val": 61,
+    "stad": "Maisí",
+    "tijd": "17:59"
+  },
+  {
+    "val": 99,
+    "stad": "Lai Lai Bisi Kopan",
+    "tijd": "6:48"
+  },
+  {
+    "val": 82,
+    "stad": "Dvorovi",
+    "tijd": "18:31"
+  },
+  {
+    "val": 26,
+    "stad": "Taohuajiang",
+    "tijd": "23:00"
+  },
+  {
+    "val": 3,
+    "stad": "Guanay",
+    "tijd": "21:37"
+  },
+  {
+    "val": 96,
+    "stad": "Almolonga",
+    "tijd": "0:50"
+  },
+  {
+    "val": 17,
+    "stad": "San Jose",
+    "tijd": "16:35"
+  },
+  {
+    "val": 64,
+    "stad": "Konibodom",
+    "tijd": "11:54"
+  },
+  {
+    "val": 73,
+    "stad": "Ampara",
+    "tijd": "22:56"
+  },
+  {
+    "val": 56,
+    "stad": "Bergen",
+    "tijd": "18:15"
+  },
+  {
+    "val": 88,
+    "stad": "Jönköping",
+    "tijd": "3:22"
+  },
+  {
+    "val": 88,
+    "stad": "Chão",
+    "tijd": "7:50"
+  },
+  {
+    "val": 90,
+    "stad": "Watubura",
+    "tijd": "10:27"
+  },
+  {
+    "val": 2,
+    "stad": "Marne-la-Vallée",
+    "tijd": "8:35"
+  },
+  {
+    "val": 42,
+    "stad": "Tarbes",
+    "tijd": "0:22"
+  },
+  {
+    "val": 4,
+    "stad": "Sarajevo",
+    "tijd": "11:41"
+  },
+  {
+    "val": 4,
+    "stad": "Hřebeč",
+    "tijd": "17:18"
+  },
+  {
+    "val": 8,
+    "stad": "Wencheng",
+    "tijd": "0:03"
+  },
+  {
+    "val": 64,
+    "stad": "Koltushi",
+    "tijd": "17:53"
+  },
+  {
+    "val": 43,
+    "stad": "Rude",
+    "tijd": "0:46"
+  },
+  {
+    "val": 4,
+    "stad": "Nanping",
+    "tijd": "15:57"
+  },
+  {
+    "val": 83,
+    "stad": "Lluidas Vale",
+    "tijd": "11:58"
+  },
+  {
+    "val": 14,
+    "stad": "Đắk Mil",
+    "tijd": "11:22"
+  },
+  {
+    "val": 92,
+    "stad": "Lousa",
+    "tijd": "0:35"
+  },
+  {
+    "val": 51,
+    "stad": "Las Carreras",
+    "tijd": "17:35"
+  },
+  {
+    "val": 13,
+    "stad": "Cauday",
+    "tijd": "10:51"
+  },
+  {
+    "val": 79,
+    "stad": "Fulong",
+    "tijd": "18:50"
+  },
+  {
+    "val": 51,
+    "stad": "Araguaína",
+    "tijd": "10:29"
+  },
+  {
+    "val": 48,
+    "stad": "Basīrpur",
+    "tijd": "21:38"
+  },
+  {
+    "val": 33,
+    "stad": "Rohia",
+    "tijd": "6:42"
+  },
+  {
+    "val": 89,
+    "stad": "Ruzhany",
+    "tijd": "12:31"
+  },
+  {
+    "val": 97,
+    "stad": "Jianfeng",
+    "tijd": "5:02"
+  },
+  {
+    "val": 34,
+    "stad": "Porkhov",
+    "tijd": "14:16"
+  },
+  {
+    "val": 38,
+    "stad": "Sungai Iyu",
+    "tijd": "16:31"
+  },
+  {
+    "val": 70,
+    "stad": "Belgrade",
+    "tijd": "5:53"
+  },
+  {
+    "val": 3,
+    "stad": "Hayang",
+    "tijd": "1:10"
+  },
+  {
+    "val": 97,
+    "stad": "Finspång",
+    "tijd": "10:57"
+  },
+  {
+    "val": 75,
+    "stad": "Strömsnäsbruk",
+    "tijd": "2:18"
+  },
+  {
+    "val": 63,
+    "stad": "Tongquan",
+    "tijd": "2:25"
+  },
+  {
+    "val": 9,
+    "stad": "Guinsang-an",
+    "tijd": "2:36"
+  },
+  {
+    "val": 34,
+    "stad": "Banqiao",
+    "tijd": "2:55"
+  },
+  {
+    "val": 31,
+    "stad": "Xiaocun",
+    "tijd": "7:07"
+  },
+  {
+    "val": 97,
+    "stad": "Priekule",
+    "tijd": "5:07"
+  },
+  {
+    "val": 47,
+    "stad": "Amānzī",
+    "tijd": "15:39"
+  },
+  {
+    "val": 95,
+    "stad": "Chunjing",
+    "tijd": "7:53"
+  },
+  {
+    "val": 81,
+    "stad": "Ailigandí",
+    "tijd": "10:20"
+  },
+  {
+    "val": 95,
+    "stad": "São João da Barra",
+    "tijd": "1:09"
+  },
+  {
+    "val": 2,
+    "stad": "Arles",
+    "tijd": "15:26"
+  },
+  {
+    "val": 55,
+    "stad": "Bor",
+    "tijd": "9:12"
+  },
+  {
+    "val": 41,
+    "stad": "Banjar Brahmanabukit",
+    "tijd": "10:49"
+  },
+  {
+    "val": 54,
+    "stad": "Kangding",
+    "tijd": "14:19"
+  },
+  {
+    "val": 78,
+    "stad": "Kangar",
+    "tijd": "13:57"
+  },
+  {
+    "val": 12,
+    "stad": "Kebon Tengah",
+    "tijd": "20:10"
+  },
+  {
+    "val": 1,
+    "stad": "Santa Catalina",
+    "tijd": "4:12"
+  },
+  {
+    "val": 15,
+    "stad": "Borovany",
+    "tijd": "15:07"
+  },
+  {
+    "val": 33,
+    "stad": "Sridadi",
+    "tijd": "4:32"
+  },
+  {
+    "val": 69,
+    "stad": "Xiaogang",
+    "tijd": "17:17"
+  },
+  {
+    "val": 59,
+    "stad": "Alagoinhas",
+    "tijd": "5:21"
+  },
+  {
+    "val": 94,
+    "stad": "Yong’an",
+    "tijd": "21:28"
+  },
+  {
+    "val": 56,
+    "stad": "Xijiao",
+    "tijd": "15:09"
+  },
+  {
+    "val": 69,
+    "stad": "Kakamega",
+    "tijd": "6:59"
+  },
+  {
+    "val": 47,
+    "stad": "Semboropasar",
+    "tijd": "17:26"
+  },
+  {
+    "val": 41,
+    "stad": "Ash Shaddādah",
+    "tijd": "15:05"
+  },
+  {
+    "val": 10,
+    "stad": "Jaciara",
+    "tijd": "17:01"
+  },
+  {
+    "val": 68,
+    "stad": "Nong Yai",
+    "tijd": "3:00"
+  },
+  {
+    "val": 34,
+    "stad": "Mora",
+    "tijd": "21:03"
+  },
+  {
+    "val": 20,
+    "stad": "Wangi",
+    "tijd": "3:34"
+  },
+  {
+    "val": 14,
+    "stad": "Xianghu",
+    "tijd": "18:16"
+  },
+  {
+    "val": 87,
+    "stad": "Le Kremlin-Bicêtre",
+    "tijd": "14:31"
+  },
+  {
+    "val": 50,
+    "stad": "Kundung",
+    "tijd": "14:47"
+  },
+  {
+    "val": 35,
+    "stad": "Isniq",
+    "tijd": "16:31"
+  },
+  {
+    "val": 39,
+    "stad": "Simajia",
+    "tijd": "14:02"
+  },
+  {
+    "val": 71,
+    "stad": "Putrajaya",
+    "tijd": "12:53"
+  },
+  {
+    "val": 2,
+    "stad": "Crespo",
+    "tijd": "17:00"
+  },
+  {
+    "val": 11,
+    "stad": "Acheng",
+    "tijd": "5:37"
+  },
+  {
+    "val": 18,
+    "stad": "Basoko",
+    "tijd": "6:58"
+  },
+  {
+    "val": 56,
+    "stad": "Navais",
+    "tijd": "12:06"
+  },
+  {
+    "val": 75,
+    "stad": "Balangkayan",
+    "tijd": "23:29"
+  },
+  {
+    "val": 65,
+    "stad": "Marinilla",
+    "tijd": "14:04"
+  },
+  {
+    "val": 44,
+    "stad": "Trnovlje pri Celju",
+    "tijd": "16:13"
+  },
+  {
+    "val": 10,
+    "stad": "Basicao Coastal",
+    "tijd": "19:59"
+  },
+  {
+    "val": 39,
+    "stad": "Stockholm",
+    "tijd": "18:37"
+  },
+  {
+    "val": 54,
+    "stad": "Yanggang",
+    "tijd": "3:00"
+  },
+  {
+    "val": 74,
+    "stad": "Shangtian",
+    "tijd": "22:06"
+  },
+  {
+    "val": 4,
+    "stad": "Buliok",
+    "tijd": "7:32"
+  },
+  {
+    "val": 52,
+    "stad": "Varginha",
+    "tijd": "17:41"
+  },
+  {
+    "val": 24,
+    "stad": "Nelspruit",
+    "tijd": "11:47"
+  },
+  {
+    "val": 92,
+    "stad": "Tortosendo",
+    "tijd": "12:10"
+  },
+  {
+    "val": 89,
+    "stad": "Chenfang",
+    "tijd": "15:21"
+  },
+  {
+    "val": 16,
+    "stad": "Saint-Joseph-de-Coleraine",
+    "tijd": "19:29"
+  },
+  {
+    "val": 29,
+    "stad": "Yartsevo",
+    "tijd": "7:15"
+  },
+  {
+    "val": 22,
+    "stad": "Dulce Nombre de Culmí",
+    "tijd": "7:01"
+  },
+  {
+    "val": 40,
+    "stad": "Ōta",
+    "tijd": "19:35"
+  },
+  {
+    "val": 36,
+    "stad": "Pondokwungu",
+    "tijd": "17:29"
+  },
+  {
+    "val": 39,
+    "stad": "Shangyuan",
+    "tijd": "5:37"
+  },
+  {
+    "val": 26,
+    "stad": "Kitami",
+    "tijd": "22:48"
+  },
+  {
+    "val": 55,
+    "stad": "Berkovitsa",
+    "tijd": "7:10"
+  },
+  {
+    "val": 58,
+    "stad": "Didou",
+    "tijd": "0:47"
+  },
+  {
+    "val": 33,
+    "stad": "Prapen",
+    "tijd": "0:51"
+  },
+  {
+    "val": 88,
+    "stad": "Poigar",
+    "tijd": "22:39"
+  },
+  {
+    "val": 78,
+    "stad": "Rybarzowice",
+    "tijd": "1:49"
+  },
+  {
+    "val": 17,
+    "stad": "Plaza de Caisán",
+    "tijd": "6:11"
+  },
+  {
+    "val": 61,
+    "stad": "Bria",
+    "tijd": "8:53"
+  },
+  {
+    "val": 87,
+    "stad": "Minyue",
+    "tijd": "15:14"
+  },
+  {
+    "val": 91,
+    "stad": "Lebedyn",
+    "tijd": "18:09"
+  },
+  {
+    "val": 33,
+    "stad": "Neópolis",
+    "tijd": "0:38"
+  },
+  {
+    "val": 2,
+    "stad": "Kedungdoro",
+    "tijd": "13:51"
+  },
+  {
+    "val": 75,
+    "stad": "Qixian",
+    "tijd": "4:38"
+  },
+  {
+    "val": 86,
+    "stad": "Tanarara",
+    "tijd": "15:48"
+  },
+  {
+    "val": 74,
+    "stad": "Nanortalik",
+    "tijd": "8:32"
+  },
+  {
+    "val": 86,
+    "stad": "Silute",
+    "tijd": "3:41"
+  },
+  {
+    "val": 69,
+    "stad": "Ţammūn",
+    "tijd": "0:58"
+  },
+  {
+    "val": 89,
+    "stad": "Světlá nad Sázavou",
+    "tijd": "19:20"
+  },
+  {
+    "val": 67,
+    "stad": "Khuan Don",
+    "tijd": "3:16"
+  },
+  {
+    "val": 44,
+    "stad": "Comillas Norte",
+    "tijd": "19:23"
+  },
+  {
+    "val": 2,
+    "stad": "Trzciana",
+    "tijd": "18:27"
+  },
+  {
+    "val": 47,
+    "stad": "Guishan",
+    "tijd": "1:01"
+  },
+  {
+    "val": 60,
+    "stad": "Bakıxanov",
+    "tijd": "11:33"
+  },
+  {
+    "val": 61,
+    "stad": "Stryków",
+    "tijd": "10:52"
+  },
+  {
+    "val": 71,
+    "stad": "Shawnee Mission",
+    "tijd": "0:03"
+  },
+  {
+    "val": 31,
+    "stad": "North Battleford",
+    "tijd": "4:11"
+  },
+  {
+    "val": 83,
+    "stad": "Kigali",
+    "tijd": "18:32"
+  },
+  {
+    "val": 58,
+    "stad": "Santa Apolonia",
+    "tijd": "2:10"
+  },
+  {
+    "val": 12,
+    "stad": "Tajerouine",
+    "tijd": "5:50"
+  },
+  {
+    "val": 15,
+    "stad": "Pengshi",
+    "tijd": "2:26"
+  },
+  {
+    "val": 52,
+    "stad": "Nakhon Phanom",
+    "tijd": "11:52"
+  },
+  {
+    "val": 49,
+    "stad": "Pavlovsk",
+    "tijd": "16:38"
+  },
+  {
+    "val": 40,
+    "stad": "São Francisco do Conde",
+    "tijd": "5:55"
+  },
+  {
+    "val": 45,
+    "stad": "Bagacay",
+    "tijd": "22:49"
+  },
+  {
+    "val": 43,
+    "stad": "Storozhnytsya",
+    "tijd": "1:36"
+  },
+  {
+    "val": 42,
+    "stad": "Adil Makmur",
+    "tijd": "23:36"
+  },
+  {
+    "val": 28,
+    "stad": "Mogi das Cruzes",
+    "tijd": "3:58"
+  },
+  {
+    "val": 47,
+    "stad": "Shuiquan",
+    "tijd": "21:17"
+  },
+  {
+    "val": 19,
+    "stad": "Līkak",
+    "tijd": "14:42"
+  },
+  {
+    "val": 43,
+    "stad": "Shazhuang",
+    "tijd": "2:12"
+  },
+  {
+    "val": 34,
+    "stad": "Novoselë",
+    "tijd": "18:55"
+  },
+  {
+    "val": 9,
+    "stad": "Kstovo",
+    "tijd": "0:58"
+  },
+  {
+    "val": 6,
+    "stad": "Jincheng",
+    "tijd": "16:21"
+  },
+  {
+    "val": 57,
+    "stad": "Igbaras",
+    "tijd": "15:19"
+  },
+  {
+    "val": 60,
+    "stad": "Donggu",
+    "tijd": "3:07"
+  },
+  {
+    "val": 39,
+    "stad": "Węgorzyno",
+    "tijd": "18:35"
+  },
+  {
+    "val": 38,
+    "stad": "Treinta y Tres",
+    "tijd": "17:55"
+  },
+  {
+    "val": 28,
+    "stad": "Heping",
+    "tijd": "16:53"
+  },
+  {
+    "val": 23,
+    "stad": "Whittlesea",
+    "tijd": "4:48"
+  },
+  {
+    "val": 53,
+    "stad": "Zhoinda",
+    "tijd": "17:10"
+  },
+  {
+    "val": 57,
+    "stad": "Catalão",
+    "tijd": "0:54"
+  },
+  {
+    "val": 60,
+    "stad": "Alurbulu",
+    "tijd": "18:44"
+  },
+  {
+    "val": 47,
+    "stad": "Rybnoye",
+    "tijd": "13:23"
+  },
+  {
+    "val": 100,
+    "stad": "Alphen aan den Rijn",
+    "tijd": "9:47"
+  },
+  {
+    "val": 35,
+    "stad": "Pousada",
+    "tijd": "7:35"
+  },
+  {
+    "val": 51,
+    "stad": "Newtown",
+    "tijd": "23:51"
+  },
+  {
+    "val": 92,
+    "stad": "Châu Thành",
+    "tijd": "0:02"
+  },
+  {
+    "val": 8,
+    "stad": "Gambaru",
+    "tijd": "8:10"
+  },
+  {
+    "val": 49,
+    "stad": "Sanxi",
+    "tijd": "15:26"
+  },
+  {
+    "val": 12,
+    "stad": "Donghoufang",
+    "tijd": "10:09"
+  },
+  {
+    "val": 90,
+    "stad": "Sanguinheira",
+    "tijd": "19:16"
+  },
+  {
+    "val": 43,
+    "stad": "Ambatondrazaka",
+    "tijd": "5:12"
+  },
+  {
+    "val": 91,
+    "stad": "Meilisi",
+    "tijd": "6:33"
+  },
+  {
+    "val": 13,
+    "stad": "Kleszczewo",
+    "tijd": "7:11"
+  },
+  {
+    "val": 30,
+    "stad": "Coro",
+    "tijd": "0:30"
+  },
+  {
+    "val": 82,
+    "stad": "Ylihärmä",
+    "tijd": "0:30"
+  },
+  {
+    "val": 61,
+    "stad": "Kumbo",
+    "tijd": "1:40"
+  },
+  {
+    "val": 47,
+    "stad": "Chenqiao",
+    "tijd": "15:38"
+  },
+  {
+    "val": 55,
+    "stad": "Höllviken",
+    "tijd": "15:47"
+  },
+  {
+    "val": 96,
+    "stad": "Jasper Park Lodge",
+    "tijd": "15:02"
+  },
+  {
+    "val": 49,
+    "stad": "Donghui",
+    "tijd": "14:43"
+  },
+  {
+    "val": 2,
+    "stad": "Athy",
+    "tijd": "11:43"
+  },
+  {
+    "val": 57,
+    "stad": "Łapczyca",
+    "tijd": "4:25"
+  },
+  {
+    "val": 35,
+    "stad": "Chiang Mai",
+    "tijd": "22:58"
+  },
+  {
+    "val": 60,
+    "stad": "Na Yung",
+    "tijd": "7:37"
+  },
+  {
+    "val": 3,
+    "stad": "Alburitel",
+    "tijd": "7:11"
+  },
+  {
+    "val": 68,
+    "stad": "Xingshou",
+    "tijd": "16:50"
+  },
+  {
+    "val": 41,
+    "stad": "Tānk",
+    "tijd": "19:50"
+  },
+  {
+    "val": 10,
+    "stad": "Sumaré",
+    "tijd": "18:51"
+  },
+  {
+    "val": 12,
+    "stad": "Lingda",
+    "tijd": "8:01"
+  },
+  {
+    "val": 99,
+    "stad": "Birqīn",
+    "tijd": "13:07"
+  },
+  {
+    "val": 31,
+    "stad": "Cúa",
+    "tijd": "18:48"
+  },
+  {
+    "val": 13,
+    "stad": "Livádion",
+    "tijd": "2:31"
+  },
+  {
+    "val": 14,
+    "stad": "Mabini",
+    "tijd": "0:00"
+  },
+  {
+    "val": 81,
+    "stad": "Mošorin",
+    "tijd": "11:07"
+  },
+  {
+    "val": 67,
+    "stad": "Ayang-ni",
+    "tijd": "11:18"
+  },
+  {
+    "val": 98,
+    "stad": "Sulahan",
+    "tijd": "3:34"
+  },
+  {
+    "val": 5,
+    "stad": "Siumate",
+    "tijd": "22:15"
+  },
+  {
+    "val": 6,
+    "stad": "Sliema",
+    "tijd": "21:09"
+  },
+  {
+    "val": 74,
+    "stad": "Darfield",
+    "tijd": "0:45"
+  },
+  {
+    "val": 16,
+    "stad": "Pukhavichy",
+    "tijd": "16:03"
+  },
+  {
+    "val": 9,
+    "stad": "Pingyi",
+    "tijd": "7:19"
+  },
+  {
+    "val": 9,
+    "stad": "Senglea",
+    "tijd": "16:00"
+  },
+  {
+    "val": 6,
+    "stad": "Melíti",
+    "tijd": "6:02"
+  },
+  {
+    "val": 90,
+    "stad": "Stockholm",
+    "tijd": "7:39"
+  },
+  {
+    "val": 20,
+    "stad": "Manila",
+    "tijd": "17:54"
+  },
+  {
+    "val": 12,
+    "stad": "Kuala Pilah",
+    "tijd": "9:43"
+  },
+  {
+    "val": 15,
+    "stad": "Temizhbekskaya",
+    "tijd": "1:45"
+  },
+  {
+    "val": 39,
+    "stad": "Celica",
+    "tijd": "16:30"
+  },
+  {
+    "val": 25,
+    "stad": "Turtas",
+    "tijd": "14:19"
+  },
+  {
+    "val": 62,
+    "stad": "Altan Emel",
+    "tijd": "22:26"
+  },
+  {
+    "val": 100,
+    "stad": "Yugang",
+    "tijd": "8:47"
+  },
+  {
+    "val": 44,
+    "stad": "Butel",
+    "tijd": "17:58"
+  },
+  {
+    "val": 59,
+    "stad": "Iwanai",
+    "tijd": "22:33"
+  },
+  {
+    "val": 80,
+    "stad": "Detroit",
+    "tijd": "4:26"
+  },
+  {
+    "val": 32,
+    "stad": "Burgos",
+    "tijd": "10:35"
+  },
+  {
+    "val": 60,
+    "stad": "Kiruna",
+    "tijd": "4:57"
+  },
+  {
+    "val": 65,
+    "stad": "Udanin",
+    "tijd": "14:06"
+  },
+  {
+    "val": 20,
+    "stad": "Sardoal",
+    "tijd": "4:55"
+  },
+  {
+    "val": 81,
+    "stad": "Cibangun Tengah",
+    "tijd": "19:02"
+  },
+  {
+    "val": 76,
+    "stad": "Jiuxi",
+    "tijd": "4:20"
+  },
+  {
+    "val": 47,
+    "stad": "Bu‘eina",
+    "tijd": "3:27"
+  },
+  {
+    "val": 53,
+    "stad": "Gumel",
+    "tijd": "0:33"
+  },
+  {
+    "val": 32,
+    "stad": "Serzedo",
+    "tijd": "6:47"
+  },
+  {
+    "val": 34,
+    "stad": "Pante Raja",
+    "tijd": "5:27"
+  },
+  {
+    "val": 23,
+    "stad": "Semarapura",
+    "tijd": "20:07"
+  },
+  {
+    "val": 73,
+    "stad": "Citeguh",
+    "tijd": "17:06"
+  },
+  {
+    "val": 28,
+    "stad": "Dos Quebradas",
+    "tijd": "23:07"
+  },
+  {
+    "val": 72,
+    "stad": "Guanjiabao",
+    "tijd": "9:13"
+  },
+  {
+    "val": 5,
+    "stad": "San Francisco",
+    "tijd": "22:16"
+  },
+  {
+    "val": 100,
+    "stad": "Ulluaya",
+    "tijd": "17:06"
+  },
+  {
+    "val": 35,
+    "stad": "Anoek",
+    "tijd": "20:57"
+  },
+  {
+    "val": 65,
+    "stad": "Germiston",
+    "tijd": "1:25"
+  }
+]

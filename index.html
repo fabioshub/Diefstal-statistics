@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/flexboxgrid.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+    <!-- <script   src="http://code.jquery.com/jquery-3.3.1.js"
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous"></script> -->
+    <!-- <script src="Chart.min.js"></script> -->
+    </script>
+    <title>New web app</title>
+  </head>
+  <body>
+    <div id="loader-wrapper">
+			<div id="loader"></div>
+
+			<div class="loader-section section-left"></div>
+      <div class="loader-section section-right"></div>
+      <div class="container">
+        <!-- <div class="row-center-xs">
+          <div class="col-xs-12">
+            <h3>hoi</h3>
+          </div>
+        </div> -->
+      </div>
+
+		</div>
+    <div class="container">
+      <div class="navbar row end-xs">
+        <div class="col-xs-3">
+          <h2 id="titel">Tall info</h2>
+        </div>
+        <div class="col-xs-9">
+          <nav id="colorNav">
+            <ul>
+                <li class="blue">
+                    <a href="#">kies uw vraag</a>
+                    <ul>
+                        <li id="vraag1a"><a href="#">Fietsen gestolen & Overvallen gepleegd</a></li>
+                        <li id="vraag2a"><a href="#">Fietsen gestolen & Fietstrommels aanwezig</a></li>
+                        <!-- More dropdown options -->
+                    </ul>
+                </li>
+                <li class="red">
+                    <a href="#"><i class="fas fa-arrow-alt-circle-left"></i></a>
+                    <ul>
+                        <li id="bar"><a href="#">Vorige 2</a></li>
+                        <li id="radar"><a href="#">Volgende 2</a></li>
+                        <!-- More dropdown options -->
+                    </ul>
+                </li>
+                <li class="yellow">
+                  <a href="#"><i class="far fa-arrow-alt-circle-right"></i></a>
+                  <ul>
+                      <li id="bar"><a href="#">Vorige 2</a></li>
+                      <li id="radar"><a href="#">Volgende 2</a></li>
+                      <!-- More dropdown options -->
+                  </ul>
+                </li>
+
+                <!-- More menu items -->
+
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <section id="app1">
+    <div class="container">
+      <div id="content1" class="row center-xs">
+        <!-- <div class="col-xs-12">
+          <p>Worden er op plekken waar relatief veel overvallen worden gepleegd ook meer fietsen gestolen in Rotterdam?</p>
+        </div> -->
+        <div class="col-xs-12">
+          <canvas id="vraag1" width="76 " height="27"></canvas>
+        </div>
+        <div class="col-xs-12">
+          <canvas id="vraag2" width="76 " height="27"></canvas>
+        </div>
+      </div>
+    </div>
+  </section>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+    <script type="text/javascript" src="javalinkup.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+  </body>
